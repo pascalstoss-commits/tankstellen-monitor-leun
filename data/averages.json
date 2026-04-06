@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "averages": {
+    "diesel": 2.466,
+    "e5": 2.28,
+    "e10": 2.22,
+    "hvo": null
+  }
+}

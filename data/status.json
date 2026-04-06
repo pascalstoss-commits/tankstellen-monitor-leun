@@ -1,0 +1,11 @@
+{
+  "server": "Tankstellen-Monitor Leun",
+  "location": "Justengarten 4A, 35638 Leun",
+  "radius_km": 16.0,
+  "schedule": "halbstündlich via GitHub Actions",
+  "last_fetch": {
+    "timestamp": "2026-04-06T13:13:45+00:00",
+    "success": true
+  },
+  "count": 40
+}
