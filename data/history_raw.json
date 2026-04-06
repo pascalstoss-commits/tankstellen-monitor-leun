@@ -19,7 +19,7 @@
     "e5": 2.239,
     "e10": 2.189,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -36,15 +36,31 @@
     "lng": 8.358471,
     "distance_km": 3.6,
     "is_open": false,
-    "opening_times": [],
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "06:00:00",
+        "end": "21:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "07:00:00",
+        "end": "21:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
+        "end": "21:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.429,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -61,15 +77,31 @@
     "lng": 8.273964,
     "distance_km": 4.8,
     "is_open": false,
-    "opening_times": [],
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "06:00:00",
+        "end": "19:30:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "06:30:00",
+        "end": "17:30:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "09:00:00",
+        "end": "17:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.319,
     "e5": 2.159,
     "e10": 2.099,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -85,16 +117,32 @@
     "lat": 50.517574,
     "lng": 8.3904,
     "distance_km": 6.9,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "06:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.429,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -110,16 +158,32 @@
     "lat": 50.54344,
     "lng": 8.4112,
     "distance_km": 7.4,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "05:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "06:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.429,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -138,13 +202,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.429,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -163,13 +227,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.429,
     "e5": 2.249,
     "e10": 2.189,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -188,13 +252,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.419,
     "e5": 2.229,
     "e10": 2.169,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -210,16 +274,37 @@
     "lat": 50.602748,
     "lng": 8.381792,
     "distance_km": 7.8,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "07:30:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Montag, Dienstag, Mittwoch, Donnerstag",
+        "start": "05:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Freitag",
+        "start": "05:00:00",
+        "end": "23:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "06:30:00",
+        "end": "23:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.439,
     "e5": 2.259,
     "e10": 2.199,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -236,15 +321,36 @@
     "lng": 8.28443,
     "distance_km": 7.8,
     "is_open": true,
-    "opening_times": [],
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "05:00:00",
+        "end": "00:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "00:00:00",
+        "end": "00:30:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
+        "end": "00:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "06:00:00",
+        "end": "00:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Geöffnet bis 00:00 Uhr",
     "diesel": 2.419,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -260,16 +366,32 @@
     "lat": 50.481546,
     "lng": 8.281717,
     "distance_km": 7.9,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "05:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "06:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.429,
     "e5": 2.249,
     "e10": 2.189,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -288,13 +410,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.419,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -310,16 +432,27 @@
     "lat": 50.607457126601,
     "lng": 8.383106274743,
     "distance_km": 8.2,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "05:30:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag, Sonntag, Feiertag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.429,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -338,13 +471,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.699,
     "e5": 2.579,
     "e10": 2.519,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -363,13 +496,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.419,
     "e5": 2.239,
     "e10": null,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -388,13 +521,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.419,
     "e5": 2.229,
     "e10": 2.169,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -411,15 +544,31 @@
     "lng": 8.33165,
     "distance_km": 10.8,
     "is_open": false,
-    "opening_times": [],
+    "opening_times": [
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "09:00:00",
+        "end": "21:00:00"
+      },
+      {
+        "text": "Mo-Fr",
+        "start": "06:00:00",
+        "end": "21:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "07:00:00",
+        "end": "21:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.419,
     "e5": 2.219,
     "e10": 2.159,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -436,15 +585,31 @@
     "lng": 8.192196,
     "distance_km": 11.1,
     "is_open": false,
-    "opening_times": [],
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "06:00:00",
+        "end": "21:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "07:00:00",
+        "end": "21:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
+        "end": "21:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.409,
     "e5": 2.229,
     "e10": 2.169,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -463,13 +628,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.409,
     "e5": 2.209,
     "e10": 2.149,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -486,15 +651,31 @@
     "lng": 8.143343,
     "distance_km": 11.8,
     "is_open": false,
-    "opening_times": [],
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "05:30:00",
+        "end": "21:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "06:00:00",
+        "end": "21:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "07:30:00",
+        "end": "21:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.419,
     "e5": 2.229,
     "e10": 2.169,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -510,16 +691,27 @@
     "lat": 50.564722,
     "lng": 8.477448,
     "distance_km": 12.1,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "täglich ausser Sonn- und Feiertagen",
+        "start": "06:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.439,
     "e5": 2.249,
     "e10": 2.189,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -535,16 +727,32 @@
     "lat": 50.54996,
     "lng": 8.48133,
     "distance_km": 12.3,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "05:30:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.439,
     "e5": 2.249,
     "e10": 2.189,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -561,15 +769,26 @@
     "lng": 8.472626,
     "distance_km": 12.3,
     "is_open": true,
-    "opening_times": [],
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "05:00:00",
+        "end": "23:00:00"
+      },
+      {
+        "text": "Samstag, Sonntag, Feiertag",
+        "start": "06:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Geöffnet bis 23:00 Uhr",
     "diesel": 2.419,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -588,13 +807,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.439,
     "e5": 2.249,
     "e10": 2.189,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": true,
     "hvo_source": "Clever Tanken / öffentliche HVO-Seite",
     "hvo_note": "HVO laut Betreiber verfügbar, Preis extern derzeit nicht sicher extrahierbar",
@@ -614,13 +833,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.439,
     "e5": 2.259,
     "e10": 2.209,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -639,13 +858,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.419,
     "e5": 2.229,
     "e10": 2.169,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -662,15 +881,31 @@
     "lng": 8.4911,
     "distance_km": 13.2,
     "is_open": true,
-    "opening_times": [],
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "05:00:00",
+        "end": "23:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "06:30:00",
+        "end": "23:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Geöffnet bis 23:00 Uhr",
     "diesel": 2.409,
     "e5": 2.229,
     "e10": 2.169,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -686,16 +921,27 @@
     "lat": 50.553513,
     "lng": 8.498047,
     "distance_km": 13.4,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "05:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag, Sonntag, Feiertag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.459,
     "e5": 2.269,
     "e10": 2.209,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -714,13 +960,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.409,
     "e5": 2.229,
     "e10": 2.169,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -737,15 +983,36 @@
     "lng": 8.501325,
     "distance_km": 13.7,
     "is_open": true,
-    "opening_times": [],
+    "opening_times": [
+      {
+        "text": "Freitag",
+        "start": "05:00:00",
+        "end": "23:59:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "07:00:00",
+        "end": "23:59:00"
+      },
+      {
+        "text": "Montag, Dienstag, Mittwoch, Donnerstag",
+        "start": "05:00:00",
+        "end": "23:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "07:00:00",
+        "end": "23:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Geöffnet bis 23:00 Uhr",
     "diesel": 2.449,
     "e5": 2.259,
     "e10": 2.199,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -764,13 +1031,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.459,
     "e5": 2.269,
     "e10": 2.209,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -786,16 +1053,27 @@
     "lat": 50.4341,
     "lng": 8.374491,
     "distance_km": 13.8,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "06:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag, Sonntag, Feiertag",
+        "start": "08:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.429,
     "e5": 2.249,
     "e10": 2.189,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -811,16 +1089,32 @@
     "lat": 50.675335,
     "lng": 8.306522,
     "distance_km": 13.8,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "Mo-Fr",
+        "start": "06:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.419,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -839,13 +1133,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.429,
     "e5": 2.249,
     "e10": 2.189,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -864,13 +1158,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.429,
     "e5": 2.249,
     "e10": 2.189,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -889,13 +1183,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.429,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -914,13 +1208,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.429,
     "e5": 2.239,
     "e10": 2.179,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -939,13 +1233,13 @@
     "is_open": true,
     "opening_times": [],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": true,
+    "open_label": "Heute 24 Stunden geöffnet",
     "diesel": 2.799,
     "e5": 2.639,
     "e10": 2.579,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -961,16 +1255,32 @@
     "lat": 50.545509,
     "lng": 8.530058,
     "distance_km": 15.7,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Mo-Fr",
+        "start": "05:30:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag",
+        "start": "06:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.449,
     "e5": 2.259,
     "e10": 2.199,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -986,16 +1296,27 @@
     "lat": 50.693523,
     "lng": 8.302755,
     "distance_km": 15.9,
-    "is_open": true,
-    "opening_times": [],
+    "is_open": false,
+    "opening_times": [
+      {
+        "text": "täglich ausser Sonn- und Feiertagen",
+        "start": "06:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      }
+    ],
     "opening_overrides": [],
-    "whole_day": null,
-    "open_label": null,
+    "whole_day": false,
+    "open_label": "Aktuell geschlossen",
     "diesel": 2.449,
     "e5": 2.269,
     "e10": 2.209,
     "hvo": null,
-    "last_update": "2026-04-06T19:54:18.505513+00:00",
+    "last_update": "2026-04-06T20:11:25.185714+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
