@@ -5,10 +5,10 @@
   "data": [
     {
       "day": "2026-04-06",
-      "avg_price": 2.466,
+      "avg_price": 2.464,
       "min_price": 2.359,
       "max_price": 2.829,
-      "readings": 40
+      "readings": 80
     }
   ]
 }
