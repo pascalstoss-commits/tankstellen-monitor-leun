@@ -4,6 +4,7 @@
     "avg_price": 2.26,
     "min_price": 2.26,
     "max_price": 2.26,
-    "readings": 2
+    "readings": 40,
+    "snapshots": 1
   }
 ]
