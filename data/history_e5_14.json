@@ -1,10 +1,10 @@
 [
   {
     "day": "2026-04-06",
-    "avg_price": 2.26,
+    "avg_price": 2.259,
     "min_price": 2.259,
     "max_price": 2.26,
-    "readings": 80,
-    "snapshots": 2
+    "readings": 120,
+    "snapshots": 3
   }
 ]
