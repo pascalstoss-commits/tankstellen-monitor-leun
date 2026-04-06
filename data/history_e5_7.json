@@ -1,51 +1,51 @@
 [
   {
     "day": "2026-03-31",
-    "avg_price": 2.254,
-    "min_price": 2.234,
-    "max_price": 2.274,
+    "avg_price": 2.253,
+    "min_price": 2.233,
+    "max_price": 2.273,
     "readings": 40
   },
   {
     "day": "2026-04-01",
-    "avg_price": 2.257,
-    "min_price": 2.237,
-    "max_price": 2.277,
+    "avg_price": 2.256,
+    "min_price": 2.236,
+    "max_price": 2.276,
     "readings": 40
   },
   {
     "day": "2026-04-02",
-    "avg_price": 2.26,
-    "min_price": 2.24,
-    "max_price": 2.28,
+    "avg_price": 2.259,
+    "min_price": 2.239,
+    "max_price": 2.279,
     "readings": 40
   },
   {
     "day": "2026-04-03",
-    "avg_price": 2.263,
-    "min_price": 2.243,
-    "max_price": 2.283,
+    "avg_price": 2.262,
+    "min_price": 2.242,
+    "max_price": 2.282,
     "readings": 40
   },
   {
     "day": "2026-04-04",
-    "avg_price": 2.266,
-    "min_price": 2.246,
-    "max_price": 2.286,
+    "avg_price": 2.265,
+    "min_price": 2.245,
+    "max_price": 2.285,
     "readings": 40
   },
   {
     "day": "2026-04-05",
-    "avg_price": 2.269,
-    "min_price": 2.249,
-    "max_price": 2.289,
+    "avg_price": 2.268,
+    "min_price": 2.248,
+    "max_price": 2.288,
     "readings": 40
   },
   {
     "day": "2026-04-06",
-    "avg_price": 2.272,
-    "min_price": 2.252,
-    "max_price": 2.292,
+    "avg_price": 2.271,
+    "min_price": 2.251,
+    "max_price": 2.291,
     "readings": 40
   }
 ]
