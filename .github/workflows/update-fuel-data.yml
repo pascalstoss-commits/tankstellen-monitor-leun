@@ -78,7 +78,7 @@ jobs:
             git commit -m "Update fuel data"
           fi
 
-          git push || echo "::warning::git push failed. Check Settings → Actions → General → Workflow permissions"
+          git push || echo "::warning::git push failed. Check Settings > Actions > General > Workflow permissions and branch protection rules."
 
       - name: Disable Jekyll
         if: always()
