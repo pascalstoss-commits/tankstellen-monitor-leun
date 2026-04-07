@@ -1,8 +1,14 @@
 import os
+import sys
 import json
 import math
+import time
+import random
+import logging
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from typing import Any, Dict, List, Optional
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -31,9 +37,38 @@ ROTH_HVO_SOURCE = {
 }
 
 
-def save_json(name, data):
-    with open(DATA_DIR / name, "w", encoding="utf-8") as f:
+# --- Robustheits-/Betriebs-Optionen (per ENV konfigurierbar) ---
+LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
+logging.basicConfig(level=LOG_LEVEL, format="%(asctime)s %(levelname)s %(message)s")
+log = logging.getLogger("tankstellen-monitor")
+
+# Retry/Backoff fuer list.php (wichtig, weil die freie API best-effort ist)
+MAX_RETRIES = int(os.getenv("TK_MAX_RETRIES", "3"))
+BACKOFF_BASE_SECONDS = float(os.getenv("TK_BACKOFF_BASE_SECONDS", "2.0"))
+BACKOFF_JITTER_SECONDS = float(os.getenv("TK_BACKOFF_JITTER_SECONDS", "0.4"))
+TRANSIENT_HTTP_STATUSES = {429, 500, 502, 503, 504}
+LIST_TIMEOUT_SECONDS = float(os.getenv("TK_LIST_TIMEOUT_SECONDS", "30"))
+DETAIL_TIMEOUT_SECONDS = float(os.getenv("TK_DETAIL_TIMEOUT_SECONDS", "15"))
+DETAIL_SLEEP_SECONDS = float(os.getenv("TK_DETAIL_SLEEP_SECONDS", "0.25"))
+DETAIL_ENABLED = os.getenv("TK_DETAIL_ENABLED", "1").lower() not in ("0", "false", "no")
+DETAIL_MAX_STATIONS = int(os.getenv("TK_DETAIL_MAX_STATIONS", "25"))
+WRITE_PLACEHOLDERS_ON_ERROR = os.getenv("TK_WRITE_PLACEHOLDERS_ON_ERROR", "1").lower() not in ("0", "false", "no")
+FAIL_FAST = os.getenv("FAIL_FAST", "0").lower() in ("1", "true", "yes")
+USER_AGENT = os.getenv("HTTP_USER_AGENT", "tankstellen-monitor-leun/1.0 (GitHub Actions)")
+
+# Session fuer Connection-Reuse (schneller & weniger Fehleranfällig)
+SESSION = requests.Session()
+
+def save_json(name: str, data: Any) -> None:
+    """Schreibt JSON atomar (temp file + rename), damit Pages nie halbe Dateien ausliefert."""
+    path = DATA_DIR / name
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_name(path.name + ".tmp")
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp, path)
 
 
 def load_json(path, default):
@@ -54,7 +89,40 @@ def haversine(lat1, lon1, lat2, lon2):
     return 2 * r * math.atan2(math.sqrt(a), math.sqrt(1-a))
 
 
+class TankerkoenigTransientError(RuntimeError):
+    pass
+
+
+
+def request_json_with_retry(url: str, params: Dict[str, Any], timeout: float) -> Dict[str, Any]:
+    """HTTP-GET mit Retry/Backoff bei 429/5xx + Netzwerkproblemen.
+
+    Wichtig: Wir werfen am Ende eine Exception, aber der __main__-Wrapper schreibt status.json
+    und beendet das Skript standardmäßig mit Exit-Code 0 (FAIL_FAST=0),
+    sodass GitHub Actions den Deploy nicht abbricht.
+    """
+    last_err: Optional[BaseException] = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            r = SESSION.get(url, params=params, timeout=timeout, headers={"User-Agent": USER_AGENT})
+            if r.status_code in TRANSIENT_HTTP_STATUSES:
+                raise TankerkoenigTransientError(f"Transient HTTP {r.status_code}")
+            r.raise_for_status()
+            return r.json()
+        except (requests.Timeout, requests.ConnectionError, TankerkoenigTransientError, ValueError) as e:
+            last_err = e
+            if attempt < MAX_RETRIES:
+                sleep_s = BACKOFF_BASE_SECONDS * (2 ** (attempt - 1)) + random.random() * BACKOFF_JITTER_SECONDS
+                log.warning("Request failed (attempt %s/%s) %s: %s; retry in %.1fs", attempt, MAX_RETRIES, url, e, sleep_s)
+                time.sleep(sleep_s)
+                continue
+            break
+    raise RuntimeError(f"Request failed after {MAX_RETRIES} attempts: {last_err}")
+
+
 def tankerkoenig_list():
+    if not API_KEY:
+        raise RuntimeError("Missing TANKERKOENIG_API_KEY (Secret nicht gesetzt?)")
     params = {
         "lat": LAT,
         "lng": LNG,
@@ -63,11 +131,11 @@ def tankerkoenig_list():
         "type": "all",
         "apikey": API_KEY,
     }
-    r = requests.get(LIST_URL, params=params, timeout=30)
-    r.raise_for_status()
-    data = r.json()
+    data = request_json_with_retry(LIST_URL, params=params, timeout=LIST_TIMEOUT_SECONDS)
     if not data.get("ok"):
-        raise RuntimeError(f"Tankerkönig list failed: {data}")
+        # Laut Tankerkönig-Doku immer ok-Flag prüfen; message liefert Ursache
+        msg = data.get("message") or str(data)
+        raise RuntimeError(f"Tankerkönig list.php ok:false: {msg}")
     return data.get("stations", [])
 
 
@@ -86,15 +154,21 @@ def save_opening_times_cache(cache):
 
 
 def tankerkoenig_detail(station_id, cache):
+    """Detailabfrage (openingTimes etc.).
+
+    Hinweis: Tankerkönig empfiehlt detail.php NICHT für regelmäßige Preisabfragen;
+    daher: daily cache + optionales Limit (DETAIL_MAX_STATIONS) und Deaktivierung (DETAIL_ENABLED).
+    """
+    if not DETAIL_ENABLED:
+        return {}
     if station_id in cache:
         return cache[station_id]
     try:
-        import time
-        time.sleep(0.3)
+        time.sleep(DETAIL_SLEEP_SECONDS)
         params = {"id": station_id, "apikey": API_KEY}
-        r = requests.get(DETAIL_URL, params=params, timeout=15)
-        if r.status_code in (429, 503, 504, 502):
-            print(f"Detail API temporarily unavailable for {station_id} (HTTP {r.status_code}), skipping.")
+        r = SESSION.get(DETAIL_URL, params=params, timeout=DETAIL_TIMEOUT_SECONDS, headers={"User-Agent": USER_AGENT})
+        if r.status_code in TRANSIENT_HTTP_STATUSES:
+            log.info("detail.php transient HTTP %s for %s -> skip", r.status_code, station_id)
             return {}
         r.raise_for_status()
         data = r.json()
@@ -104,9 +178,8 @@ def tankerkoenig_detail(station_id, cache):
         cache[station_id] = detail
         return detail
     except Exception as e:
-        print(f"Detail API error for {station_id}: {e}, skipping.")
+        log.info("Detail API error for %s: %s (skip)", station_id, e)
         return {}
-
 
 def weekday_num(dt):
     return dt.weekday()
@@ -207,7 +280,7 @@ def compute_open_label(detail, now_local):
 
 def fetch_clever_tanken_hvo_price():
     try:
-        r = requests.get(ROTH_HVO_SOURCE["price_page"], timeout=30, headers={"User-Agent": "Mozilla/5.0"})
+        r = SESSION.get(ROTH_HVO_SOURCE["price_page"], timeout=30, headers={"User-Agent": USER_AGENT})
         r.raise_for_status()
         text = r.text
         if "Roth- Energie, Dillfeld 19, 35576 Wetzlar" not in text:
@@ -251,10 +324,12 @@ def build_current_data():
     current = []
     now_dt = datetime.now(timezone.utc).astimezone()
     now = now_dt.isoformat()
+
     opening_cache = load_opening_times_cache()
-    cache_was_empty = not bool([k for k in opening_cache if not k.startswith("_")])
-    for s in stations:
-        detail = tankerkoenig_detail(s.get("id"), opening_cache) if s.get("id") else {}
+
+    for i, s in enumerate(stations):
+        do_detail = bool(s.get("id")) and (i < DETAIL_MAX_STATIONS)
+        detail = tankerkoenig_detail(s.get("id"), opening_cache) if do_detail else {}
         current.append({
             "id": s.get("id"),
             "name": s.get("name"),
@@ -277,6 +352,7 @@ def build_current_data():
             "hvo": None,
             "last_update": now,
         })
+
     save_opening_times_cache(opening_cache)
     notes = enrich_hvo(current)
     current.sort(key=lambda x: (x.get("distance_km") is None, x.get("distance_km", 9999)))
@@ -416,7 +492,6 @@ def build_changes(stations, hours):
     rows = []
     for s in stations:
         sid = s.get("id")
-        # Alle Log-Einträge die älter als cutoff sind, für diese Station
         historic_entries = []
         for entry in log:
             try:
@@ -427,7 +502,6 @@ def build_changes(stations, hours):
                 for st in entry.get("stations", []):
                     if st.get("id") == sid:
                         historic_entries.append((ts, st))
-        # Neuesten Eintrag nehmen, der noch vor dem Cutoff liegt
         if historic_entries:
             historic_entries.sort(key=lambda x: x[0], reverse=True)
             _, hist = historic_entries[0]
@@ -436,9 +510,7 @@ def build_changes(stations, hours):
 
         def calc_change(fuel):
             cur = s.get(fuel)
-            if cur is None:
-                return None
-            if hist is None:
+            if cur is None or hist is None:
                 return None
             old_val = hist.get(fuel)
             if old_val is None:
@@ -452,7 +524,6 @@ def build_changes(stations, hours):
             "e10": calc_change("e10"),
             "hvo": calc_change("hvo"),
         }
-        # Nur Stationen aufnehmen, bei denen mindestens ein Vergleichswert existiert
         if any(v is not None for v in change.values()):
             rows.append({
                 "station_id": sid,
@@ -468,11 +539,35 @@ def build_changes(stations, hours):
                 },
                 "change": change,
             })
-    # Sortierung: Stationen mit der größten absoluten Änderung zuerst
-    rows.sort(key=lambda r: -max(
-        (abs(v) for v in r["change"].values() if v is not None), default=0
-    ))
+    rows.sort(key=lambda r: -max((abs(v) for v in r["change"].values() if v is not None), default=0))
     return rows
+
+
+def ensure_minimal_files_exist():
+    """Erzeugt fehlende JSON-Dateien mit Platzhaltern, um 404/Promise-All-Kaskaden zu vermeiden.
+
+    Wichtig: Wir überschreiben NICHT existierende Daten (damit bei API-Ausfällen die letzten
+    funktionierenden Werte weiterhin verfügbar bleiben).
+    """
+    defaults: Dict[str, Any] = {
+        'stations_prices.json': [],
+        'averages.json': {},
+        'best_times_30d.json': {},
+        'changes_24h.json': [],
+        'changes_48h.json': [],
+        'history_log.json': [],
+        'opening_times_cache.json': {},
+    }
+    for name, default in defaults.items():
+        p = DATA_DIR / name
+        if not p.exists():
+            save_json(name, default)
+    for fuel in ['diesel', 'e5', 'e10', 'hvo']:
+        for days in [7, 14, 30, 60]:
+            name = f'history_{fuel}_{days}.json'
+            p = DATA_DIR / name
+            if not p.exists():
+                save_json(name, [])
 
 
 def main():
@@ -509,16 +604,29 @@ if __name__ == "__main__":
     try:
         main()
     except Exception as e:
-        import traceback
-        print(f"FATAL ERROR: {e}")
-        traceback.print_exc()
-        # Status-Datei mit Fehlerinfo schreiben, damit das Frontend informiert ist
+        # Wichtig: Nicht hart failen, sonst stoppt der Workflow und Pages deployt nicht.
+        # Stattdessen: status.json auf ok:false setzen + optional Platzhalterdateien schreiben.
+        log.exception("FATAL ERROR: %s", e)
+        try:
+            prev_status = load_json(DATA_DIR / 'status.json', {})
+            last_success = prev_status.get('last_fetch') or prev_status.get('last_success')
+        except Exception:
+            last_success = None
         try:
             DATA_DIR.mkdir(exist_ok=True)
-            import json as _json
-            err_status = {"ok": False, "error": str(e), "last_attempt": datetime.now().isoformat(timespec="seconds")}
-            with open(DATA_DIR / "status.json", "w") as f:
-                _json.dump(err_status, f, ensure_ascii=False, indent=2)
-        except Exception:
-            pass
-        raise
+            err_status = {
+                'ok': False,
+                'location': LOCATION_NAME,
+                'radius_km': RADIUS_KM,
+                'error': str(e),
+                'last_attempt': datetime.now().isoformat(timespec='seconds'),
+                'last_success': last_success,
+            }
+            save_json('status.json', err_status)
+            if WRITE_PLACEHOLDERS_ON_ERROR:
+                ensure_minimal_files_exist()
+        except Exception as inner:
+            log.error("Could not write error status/placeholder files: %s", inner)
+        if FAIL_FAST:
+            raise
+        sys.exit(0)
