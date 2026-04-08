@@ -13,7 +13,7 @@
     "isOpen": true,
     "e5": 2.219,
     "e10": 2.169,
-    "diesel": 2.409,
+    "diesel": 2.419,
     "lat": 50.581275,
     "lng": 8.297558,
     "state": "deHE"
@@ -48,7 +48,7 @@
     "isOpen": true,
     "e5": 2.239,
     "e10": 2.179,
-    "diesel": 2.429,
+    "diesel": 2.419,
     "lat": 50.548084,
     "lng": 8.358471,
     "state": null
@@ -83,7 +83,7 @@
     "isOpen": true,
     "e5": 2.159,
     "e10": 2.099,
-    "diesel": 2.319,
+    "diesel": 2.359,
     "lat": 50.51334,
     "lng": 8.273964,
     "state": "deHE"
@@ -153,7 +153,7 @@
     "isOpen": true,
     "e5": 2.239,
     "e10": 2.179,
-    "diesel": 2.419,
+    "diesel": 2.439,
     "lat": 50.54344,
     "lng": 8.4112,
     "state": "deHE"
@@ -172,7 +172,7 @@
     "isOpen": true,
     "e5": 2.239,
     "e10": 2.179,
-    "diesel": 2.429,
+    "diesel": 2.439,
     "lat": 50.554352,
     "lng": 8.41254,
     "state": null
@@ -189,9 +189,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 2.249,
-    "e10": 2.189,
-    "diesel": 2.429,
+    "e5": 2.199,
+    "e10": 2.139,
+    "diesel": 2.439,
     "lat": 50.490331,
     "lng": 8.258516,
     "state": null
@@ -210,7 +210,7 @@
     "isOpen": true,
     "e5": 2.229,
     "e10": 2.169,
-    "diesel": 2.419,
+    "diesel": 2.429,
     "lat": 50.53001,
     "lng": 8.41137,
     "state": null
@@ -248,9 +248,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": true,
-    "e5": 2.259,
-    "e10": 2.199,
-    "diesel": 2.439,
+    "e5": 2.239,
+    "e10": 2.179,
+    "diesel": 2.449,
     "lat": 50.602748,
     "lng": 8.381792,
     "state": null
@@ -265,11 +265,6 @@
     "place": "WEILBURG",
     "openingTimes": [
       {
-        "text": "Mo-Fr",
-        "start": "05:00:00",
-        "end": "00:00:00"
-      },
-      {
         "text": "Sonntag, Feiertag",
         "start": "00:00:00",
         "end": "00:30:00"
@@ -277,6 +272,11 @@
       {
         "text": "Sonntag, Feiertag",
         "start": "08:00:00",
+        "end": "00:00:00"
+      },
+      {
+        "text": "Mo-Fr",
+        "start": "05:00:00",
         "end": "00:00:00"
       },
       {
@@ -288,8 +288,8 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": true,
-    "e5": 2.199,
-    "e10": 2.139,
+    "e5": 2.159,
+    "e10": 2.099,
     "diesel": 2.369,
     "lat": 50.48204,
     "lng": 8.28443,
@@ -323,8 +323,8 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": true,
-    "e5": 2.209,
-    "e10": 2.149,
+    "e5": 2.169,
+    "e10": 2.109,
     "diesel": 2.379,
     "lat": 50.481546,
     "lng": 8.281717,
@@ -342,8 +342,8 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 2.199,
-    "e10": 2.139,
+    "e5": 2.159,
+    "e10": 2.099,
     "diesel": 2.369,
     "lat": 50.481099,
     "lng": 8.279904,
@@ -374,7 +374,7 @@
     "isOpen": true,
     "e5": 2.239,
     "e10": 2.179,
-    "diesel": 2.429,
+    "diesel": 2.439,
     "lat": 50.607457126601,
     "lng": 8.383106274743,
     "state": "deHE"
@@ -391,9 +391,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 2.579,
-    "e10": 2.519,
-    "diesel": 2.699,
+    "e5": 2.539,
+    "e10": 2.479,
+    "diesel": 2.789,
     "lat": 50.621251,
     "lng": 8.361877,
     "state": null
@@ -410,7 +410,7 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 2.199,
+    "e5": 2.159,
     "e10": null,
     "diesel": 2.369,
     "lat": 50.495503,
@@ -429,9 +429,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 2.229,
-    "e10": 2.169,
-    "diesel": 2.419,
+    "e5": 2.169,
+    "e10": 2.109,
+    "diesel": 2.369,
     "lat": 50.4989591,
     "lng": 8.1838982,
     "state": null
@@ -464,9 +464,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": true,
-    "e5": 2.219,
-    "e10": 2.159,
-    "diesel": 2.419,
+    "e5": 2.189,
+    "e10": 2.129,
+    "diesel": 2.429,
     "lat": 50.6468,
     "lng": 8.33165,
     "state": null
@@ -499,9 +499,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": true,
-    "e5": 2.229,
-    "e10": 2.169,
-    "diesel": 2.409,
+    "e5": 2.239,
+    "e10": 2.179,
+    "diesel": 2.429,
     "lat": 50.61818,
     "lng": 8.192196,
     "state": null
@@ -518,9 +518,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 2.209,
-    "e10": 2.149,
-    "diesel": 2.409,
+    "e5": 2.179,
+    "e10": 2.119,
+    "diesel": 2.419,
     "lat": 50.654991,
     "lng": 8.321573,
     "state": null
@@ -553,9 +553,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": true,
-    "e5": 2.229,
-    "e10": 2.169,
-    "diesel": 2.419,
+    "e5": 2.239,
+    "e10": 2.179,
+    "diesel": 2.449,
     "lat": 50.53168,
     "lng": 8.143343,
     "state": null
@@ -585,7 +585,7 @@
     "isOpen": true,
     "e5": 2.249,
     "e10": 2.189,
-    "diesel": 2.439,
+    "diesel": 2.449,
     "lat": 50.564722,
     "lng": 8.477448,
     "state": null
@@ -600,13 +600,13 @@
     "place": "WETZLAR",
     "openingTimes": [
       {
-        "text": "Mo-Fr",
-        "start": "05:30:00",
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
         "end": "22:00:00"
       },
       {
-        "text": "Sonntag, Feiertag",
-        "start": "08:00:00",
+        "text": "Mo-Fr",
+        "start": "05:30:00",
         "end": "22:00:00"
       },
       {
@@ -618,8 +618,8 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": true,
-    "e5": 2.249,
-    "e10": 2.189,
+    "e5": 2.239,
+    "e10": 2.179,
     "diesel": 2.429,
     "lat": 50.54996,
     "lng": 8.48133,
@@ -667,8 +667,8 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 2.249,
-    "e10": 2.189,
+    "e5": 2.239,
+    "e10": 2.179,
     "diesel": 2.429,
     "lat": 50.56642,
     "lng": 8.48478,
@@ -686,399 +686,12 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 2.239,
-    "e10": 2.189,
-    "diesel": 2.419,
+    "e5": 2.189,
+    "e10": 2.139,
+    "diesel": 2.369,
     "lat": 50.437476,
     "lng": 8.29106,
     "state": "deHE"
   },
-  "00061796-1231-4444-8888-acdc00001231": {
-    "id": "00061796-1231-4444-8888-acdc00001231",
-    "name": "Mengin Tank-Stop Schöffengrund",
-    "brand": "Mengin",
-    "street": "Steuterweg",
-    "houseNumber": "23",
-    "postCode": 35641,
-    "place": "Schöffengrund-Schwalbach",
-    "openingTimes": [],
-    "overrides": [],
-    "wholeDay": true,
-    "isOpen": true,
-    "e5": 2.229,
-    "e10": 2.169,
-    "diesel": 2.419,
-    "lat": 50.494892120361,
-    "lng": 8.471586227417,
-    "state": null
-  },
-  "51d4b4a6-a095-1aa0-e100-80009459e03a": {
-    "id": "51d4b4a6-a095-1aa0-e100-80009459e03a",
-    "name": "JET WETZLAR HERMANNSTEINER STR. 67",
-    "brand": "JET",
-    "street": "HERMANNSTEINER STR.",
-    "houseNumber": "67",
-    "postCode": 35576,
-    "place": "WETZLAR",
-    "openingTimes": [
-      {
-        "text": "Mo-Fr",
-        "start": "05:00:00",
-        "end": "23:00:00"
-      },
-      {
-        "text": "Sonntag, Feiertag",
-        "start": "08:00:00",
-        "end": "22:00:00"
-      },
-      {
-        "text": "Samstag",
-        "start": "06:30:00",
-        "end": "23:00:00"
-      }
-    ],
-    "overrides": [],
-    "wholeDay": false,
-    "isOpen": true,
-    "e5": 2.229,
-    "e10": 2.169,
-    "diesel": 2.409,
-    "lat": 50.57468,
-    "lng": 8.4911,
-    "state": "deHE"
-  },
-  "25c8c38d-c34f-4f8b-953d-0f200c28c27c": {
-    "id": "25c8c38d-c34f-4f8b-953d-0f200c28c27c",
-    "name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "street": "Karl-Kellner-Ring ",
-    "houseNumber": "2",
-    "postCode": 35576,
-    "place": "Wetzlar",
-    "openingTimes": [
-      {
-        "text": "Mo-Fr",
-        "start": "05:00:00",
-        "end": "22:00:00"
-      },
-      {
-        "text": "Samstag, Sonntag, Feiertag",
-        "start": "07:00:00",
-        "end": "22:00:00"
-      }
-    ],
-    "overrides": [],
-    "wholeDay": false,
-    "isOpen": true,
-    "e5": 2.269,
-    "e10": 2.209,
-    "diesel": 2.459,
-    "lat": 50.553513,
-    "lng": 8.498047,
-    "state": null
-  },
-  "175ab015-139e-4515-9978-ea4e3679cf7a": {
-    "id": "175ab015-139e-4515-9978-ea4e3679cf7a",
-    "name": "Access Tankstelle Wetzlar",
-    "brand": "Access",
-    "street": "Hermannsteiner Str.",
-    "houseNumber": "30",
-    "postCode": 35576,
-    "place": "Wetzlar",
-    "openingTimes": [],
-    "overrides": [],
-    "wholeDay": true,
-    "isOpen": true,
-    "e5": 2.229,
-    "e10": 2.169,
-    "diesel": 2.409,
-    "lat": 50.568191,
-    "lng": 8.499968,
-    "state": null
-  },
-  "f0388b43-f365-4bde-8550-de43a21ea056": {
-    "id": "f0388b43-f365-4bde-8550-de43a21ea056",
-    "name": "AVIA Tankstelle",
-    "brand": "AVIA",
-    "street": "Gloelstraße",
-    "houseNumber": "12",
-    "postCode": 35576,
-    "place": "Wetzlar",
-    "openingTimes": [
-      {
-        "text": "Freitag",
-        "start": "05:00:00",
-        "end": "23:59:00"
-      },
-      {
-        "text": "Samstag",
-        "start": "07:00:00",
-        "end": "23:59:00"
-      },
-      {
-        "text": "Montag, Dienstag, Mittwoch, Donnerstag",
-        "start": "05:00:00",
-        "end": "23:00:00"
-      },
-      {
-        "text": "Sonntag, Feiertag",
-        "start": "07:00:00",
-        "end": "23:00:00"
-      }
-    ],
-    "overrides": [],
-    "wholeDay": false,
-    "isOpen": true,
-    "e5": 2.259,
-    "e10": 2.199,
-    "diesel": 2.449,
-    "lat": 50.562366,
-    "lng": 8.501325,
-    "state": null
-  },
-  "52a8039f-60c5-49be-9ddd-91f54298c22c": {
-    "id": "52a8039f-60c5-49be-9ddd-91f54298c22c",
-    "name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "street": "Bergstraße ",
-    "houseNumber": "4",
-    "postCode": 35578,
-    "place": "Wetzlar",
-    "openingTimes": [],
-    "overrides": [],
-    "wholeDay": true,
-    "isOpen": true,
-    "e5": 2.269,
-    "e10": 2.209,
-    "diesel": 2.459,
-    "lat": 50.550762,
-    "lng": 8.502649,
-    "state": null
-  },
-  "d9d63b96-111f-4218-998a-aa318caa100d": {
-    "id": "d9d63b96-111f-4218-998a-aa318caa100d",
-    "name": "TotalEnergies Weilmuenster",
-    "brand": "TotalEnergies",
-    "street": "Weilstr. ",
-    "houseNumber": "112",
-    "postCode": 35789,
-    "place": "Weilmuenster",
-    "openingTimes": [
-      {
-        "text": "Mo-Fr",
-        "start": "06:00:00",
-        "end": "22:00:00"
-      },
-      {
-        "text": "Samstag, Sonntag, Feiertag",
-        "start": "08:00:00",
-        "end": "22:00:00"
-      }
-    ],
-    "overrides": [],
-    "wholeDay": false,
-    "isOpen": true,
-    "e5": 2.249,
-    "e10": 2.189,
-    "diesel": 2.429,
-    "lat": 50.4341,
-    "lng": 8.374491,
-    "state": null
-  },
-  "af93b17c-8eba-4245-84dd-9feb83032ab5": {
-    "id": "af93b17c-8eba-4245-84dd-9feb83032ab5",
-    "name": "BELL Oil",
-    "brand": "BELL Oil",
-    "street": "Konrad-Adenauer-Straße ",
-    "houseNumber": "25",
-    "postCode": 35745,
-    "place": "Herborn",
-    "openingTimes": [
-      {
-        "text": "Mo-Fr",
-        "start": "06:00:00",
-        "end": "22:00:00"
-      },
-      {
-        "text": "Samstag",
-        "start": "07:00:00",
-        "end": "22:00:00"
-      },
-      {
-        "text": "Sonntag, Feiertag",
-        "start": "08:00:00",
-        "end": "22:00:00"
-      }
-    ],
-    "overrides": [],
-    "wholeDay": false,
-    "isOpen": true,
-    "e5": 2.239,
-    "e10": 2.179,
-    "diesel": 2.419,
-    "lat": 50.675335,
-    "lng": 8.306522,
-    "state": null
-  },
-  "9d9d582a-485e-4f7c-b65f-20bbf44881a8": {
-    "id": "9d9d582a-485e-4f7c-b65f-20bbf44881a8",
-    "name": "Shell Herborn Im Breiten Boden 2",
-    "brand": "Shell",
-    "street": "Im Breiten Boden",
-    "houseNumber": "2",
-    "postCode": 35745,
-    "place": "Herborn",
-    "openingTimes": [],
-    "overrides": [],
-    "wholeDay": true,
-    "isOpen": true,
-    "e5": 2.249,
-    "e10": 2.189,
-    "diesel": 2.429,
-    "lat": 50.67566,
-    "lng": 8.278812,
-    "state": null
-  },
-  "623fd837-bb4d-4369-855e-46eb3f09d79c": {
-    "id": "623fd837-bb4d-4369-855e-46eb3f09d79c",
-    "name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "street": "Westerwaldstraße ",
-    "houseNumber": "26",
-    "postCode": 35745,
-    "place": "Herborn",
-    "openingTimes": [],
-    "overrides": [],
-    "wholeDay": true,
-    "isOpen": true,
-    "e5": 2.249,
-    "e10": 2.189,
-    "diesel": 2.429,
-    "lat": 50.678467,
-    "lng": 8.30135,
-    "state": null
-  },
-  "b0e00999-b9ea-4568-bcf7-44d1f22cc9de": {
-    "id": "b0e00999-b9ea-4568-bcf7-44d1f22cc9de",
-    "name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "street": "B ",
-    "houseNumber": "49/Nordseite",
-    "postCode": 65614,
-    "place": "Beselich",
-    "openingTimes": [],
-    "overrides": [],
-    "wholeDay": true,
-    "isOpen": true,
-    "e5": 2.239,
-    "e10": 2.179,
-    "diesel": 2.429,
-    "lat": 50.46912,
-    "lng": 8.137242,
-    "state": null
-  },
-  "0af7de31-894a-4493-ab7f-130bb069e3a8": {
-    "id": "0af7de31-894a-4493-ab7f-130bb069e3a8",
-    "name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "street": "An der B ",
-    "houseNumber": "49 Südseite",
-    "postCode": 65614,
-    "place": "Beselich",
-    "openingTimes": [],
-    "overrides": [],
-    "wholeDay": true,
-    "isOpen": true,
-    "e5": 2.239,
-    "e10": 2.179,
-    "diesel": 2.429,
-    "lat": 50.467915,
-    "lng": 8.137499,
-    "state": null
-  },
-  "c6937aa5-1f5b-46bf-aae8-015096ea012d": {
-    "id": "c6937aa5-1f5b-46bf-aae8-015096ea012d",
-    "name": "Esso Tankstelle",
-    "brand": "ESSO",
-    "street": "BAT DOLLENBERG",
-    "houseNumber": " ",
-    "postCode": 35745,
-    "place": "HERBORN",
-    "openingTimes": [],
-    "overrides": [],
-    "wholeDay": true,
-    "isOpen": true,
-    "e5": 2.639,
-    "e10": 2.579,
-    "diesel": 2.799,
-    "lat": 50.68743,
-    "lng": 8.293994,
-    "state": null
-  },
-  "db4593f8-3225-4ca6-8709-fedffb306d35": {
-    "id": "db4593f8-3225-4ca6-8709-fedffb306d35",
-    "name": "Shell Wetzlar Frankfurter Str. 95",
-    "brand": "Shell",
-    "street": "Frankfurter Str.",
-    "houseNumber": "95",
-    "postCode": 35578,
-    "place": "Wetzlar",
-    "openingTimes": [
-      {
-        "text": "Sonntag, Feiertag",
-        "start": "07:00:00",
-        "end": "22:00:00"
-      },
-      {
-        "text": "Mo-Fr",
-        "start": "05:30:00",
-        "end": "22:00:00"
-      },
-      {
-        "text": "Samstag",
-        "start": "06:00:00",
-        "end": "22:00:00"
-      }
-    ],
-    "overrides": [],
-    "wholeDay": false,
-    "isOpen": true,
-    "e5": 2.259,
-    "e10": 2.199,
-    "diesel": 2.449,
-    "lat": 50.545509,
-    "lng": 8.530058,
-    "state": null
-  },
-  "d081a49b-24e9-4af7-861f-96b5bc6e9a70": {
-    "id": "d081a49b-24e9-4af7-861f-96b5bc6e9a70",
-    "name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "street": "Burger Hauptstraße ",
-    "houseNumber": "10-12",
-    "postCode": 35745,
-    "place": "Herborn-Burg",
-    "openingTimes": [
-      {
-        "text": "täglich ausser Sonn- und Feiertagen",
-        "start": "06:00:00",
-        "end": "22:00:00"
-      },
-      {
-        "text": "Sonntag, Feiertag",
-        "start": "07:00:00",
-        "end": "22:00:00"
-      }
-    ],
-    "overrides": [],
-    "wholeDay": false,
-    "isOpen": true,
-    "e5": 2.269,
-    "e10": 2.209,
-    "diesel": 2.449,
-    "lat": 50.693523,
-    "lng": 8.302755,
-    "state": null
-  },
-  "_fetched_date": "2026-04-07"
+  "_fetched_date": "2026-04-08"
 }
