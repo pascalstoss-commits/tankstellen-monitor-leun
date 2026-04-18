@@ -94,5 +94,13 @@
     "max_price": 2.15,
     "readings": 196,
     "snapshots": 6
+  },
+  {
+    "day": "2026-04-18",
+    "avg_price": 2.069,
+    "min_price": 2.069,
+    "max_price": 2.069,
+    "readings": 18,
+    "snapshots": 1
   }
 ]
