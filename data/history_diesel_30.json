@@ -201,10 +201,10 @@
   },
   {
     "day": "2026-05-01",
-    "avg_price": 2.101,
+    "avg_price": 2.102,
     "min_price": 2.079,
     "max_price": 2.153,
-    "readings": 155,
-    "snapshots": 4
+    "readings": 174,
+    "snapshots": 5
   }
 ]
