@@ -9,7 +9,7 @@
       "e5": 2.039,
       "e10": 1.979,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.06,
@@ -28,7 +28,7 @@
       "e5": 2.049,
       "e10": 1.989,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.06,
@@ -47,31 +47,12 @@
       "e5": 2.039,
       "e10": 1.979,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.04,
       "e5": 0.06,
       "e10": 0.06,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "51d4b4a6-a095-1aa0-e100-80009459e03a",
-    "station_name": "JET WETZLAR HERMANNSTEINER STR. 67",
-    "brand": "JET",
-    "distance_km": 13.2,
-    "current": {
-      "diesel": 2.139,
-      "e5": 2.119,
-      "e10": 2.059,
-      "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
-    },
-    "change": {
-      "diesel": 0.0,
-      "e5": 0.04,
-      "e10": 0.04,
       "hvo": null
     }
   },
@@ -85,7 +66,7 @@
       "e5": 2.049,
       "e10": 1.989,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.04,
@@ -104,7 +85,7 @@
       "e5": 2.049,
       "e10": 1.989,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -123,7 +104,7 @@
       "e5": 2.049,
       "e10": 1.989,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -142,7 +123,7 @@
       "e5": 2.059,
       "e10": 2.009,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -161,45 +142,7 @@
       "e5": 2.059,
       "e10": 1.999,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
-    },
-    "change": {
-      "diesel": 0.02,
-      "e5": 0.03,
-      "e10": 0.03,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "3f8b6120-ea6c-4694-8255-b1172febf57a",
-    "station_name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "distance_km": 11.1,
-    "current": {
-      "diesel": 2.069,
-      "e5": 2.019,
-      "e10": 1.959,
-      "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
-    },
-    "change": {
-      "diesel": 0.03,
-      "e5": 0.02,
-      "e10": 0.02,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "09f2d06a-1768-4c15-ac43-dbdb5518019a",
-    "station_name": "AVIA XPress",
-    "brand": "AVIA XPress",
-    "distance_km": 12.7,
-    "current": {
-      "diesel": 2.069,
-      "e5": 2.029,
-      "e10": 1.979,
-      "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -218,12 +161,12 @@
       "e5": 2.059,
       "e10": 1.999,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": 0.02,
-      "e10": 0.02,
+      "e5": 0.03,
+      "e10": 0.03,
       "hvo": null
     }
   },
@@ -237,12 +180,12 @@
       "e5": 2.059,
       "e10": 1.999,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": 0.02,
-      "e10": 0.02,
+      "e5": 0.03,
+      "e10": 0.03,
       "hvo": null
     }
   },
@@ -256,12 +199,12 @@
       "e5": 2.059,
       "e10": 1.999,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": 0.02,
-      "e10": 0.02,
+      "e5": 0.03,
+      "e10": 0.03,
       "hvo": null
     }
   },
@@ -275,12 +218,12 @@
       "e5": 2.049,
       "e10": 1.989,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": 0.02,
-      "e10": 0.02,
+      "e5": 0.03,
+      "e10": 0.03,
       "hvo": null
     }
   },
@@ -294,31 +237,12 @@
       "e5": 2.059,
       "e10": 1.999,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": 0.02,
-      "e10": 0.02,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "51d4b54d-a095-1aa0-e100-80009459e03a",
-    "station_name": "JET WEILBURG JOHANN-ERNST-STR. 1",
-    "brand": "JET",
-    "distance_km": 7.8,
-    "current": {
-      "diesel": 2.059,
-      "e5": 2.019,
-      "e10": 1.959,
-      "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
-    },
-    "change": {
-      "diesel": 0.01,
-      "e5": 0.02,
-      "e10": 0.02,
+      "e5": 0.03,
+      "e10": 0.03,
       "hvo": null
     }
   },
@@ -332,10 +256,29 @@
       "e5": 2.059,
       "e10": 1.999,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
+      "e5": 0.03,
+      "e10": 0.03,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "3f8b6120-ea6c-4694-8255-b1172febf57a",
+    "station_name": "Aral Tankstelle",
+    "brand": "ARAL",
+    "distance_km": 11.1,
+    "current": {
+      "diesel": 2.069,
+      "e5": 2.019,
+      "e10": 1.959,
+      "hvo": null,
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
+    },
+    "change": {
+      "diesel": 0.03,
       "e5": 0.02,
       "e10": 0.02,
       "hvo": null
@@ -351,31 +294,12 @@
       "e5": 2.069,
       "e10": 2.009,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": 0.02,
-      "e10": 0.02,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "51d4b5de-a095-1aa0-e100-80009459e03a",
-    "station_name": "JET WETZLAR BRAUNFELSER STR. 53",
-    "brand": "JET",
-    "distance_km": 12.3,
-    "current": {
-      "diesel": 2.139,
-      "e5": 2.099,
-      "e10": 2.039,
-      "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
-    },
-    "change": {
-      "diesel": 0.0,
-      "e5": 0.02,
-      "e10": 0.02,
+      "e5": 0.03,
+      "e10": 0.03,
       "hvo": null
     }
   },
@@ -389,12 +313,12 @@
       "e5": 2.059,
       "e10": 1.999,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": 0.02,
-      "e10": 0.02,
+      "e5": 0.03,
+      "e10": 0.03,
       "hvo": null
     }
   },
@@ -408,7 +332,83 @@
       "e5": 2.069,
       "e10": 2.009,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
+    },
+    "change": {
+      "diesel": 0.02,
+      "e5": 0.03,
+      "e10": 0.03,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "51d4b54d-a095-1aa0-e100-80009459e03a",
+    "station_name": "JET WEILBURG JOHANN-ERNST-STR. 1",
+    "brand": "JET",
+    "distance_km": 7.8,
+    "current": {
+      "diesel": 2.059,
+      "e5": 2.019,
+      "e10": 1.959,
+      "hvo": null,
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
+    },
+    "change": {
+      "diesel": 0.02,
+      "e5": 0.02,
+      "e10": 0.02,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "b5b6e385-c0ee-4279-86b8-8132ad7754e6",
+    "station_name": "TotalEnergies Mengerskirchen",
+    "brand": "TotalEnergies",
+    "distance_km": 11.8,
+    "current": {
+      "diesel": 2.059,
+      "e5": 2.009,
+      "e10": 1.949,
+      "hvo": null,
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
+    },
+    "change": {
+      "diesel": 0.02,
+      "e5": 0.01,
+      "e10": 0.01,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "51d4b5de-a095-1aa0-e100-80009459e03a",
+    "station_name": "JET WETZLAR BRAUNFELSER STR. 53",
+    "brand": "JET",
+    "distance_km": 12.3,
+    "current": {
+      "diesel": 2.139,
+      "e5": 2.099,
+      "e10": 2.039,
+      "hvo": null,
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
+    },
+    "change": {
+      "diesel": 0.02,
+      "e5": 0.02,
+      "e10": 0.02,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "09f2d06a-1768-4c15-ac43-dbdb5518019a",
+    "station_name": "AVIA XPress",
+    "brand": "AVIA XPress",
+    "distance_km": 12.7,
+    "current": {
+      "diesel": 2.059,
+      "e5": 2.019,
+      "e10": 1.969,
+      "hvo": null,
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -427,12 +427,31 @@
       "e5": 2.089,
       "e10": 2.029,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
       "e5": 0.0,
       "e10": 0.0,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "51d4b4a6-a095-1aa0-e100-80009459e03a",
+    "station_name": "JET WETZLAR HERMANNSTEINER STR. 67",
+    "brand": "JET",
+    "distance_km": 13.2,
+    "current": {
+      "diesel": 2.139,
+      "e5": 2.099,
+      "e10": 2.039,
+      "hvo": null,
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
+    },
+    "change": {
+      "diesel": 0.02,
+      "e5": 0.02,
+      "e10": 0.02,
       "hvo": null
     }
   },
@@ -446,7 +465,7 @@
       "e5": 2.109,
       "e10": 2.049,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -465,10 +484,10 @@
       "e5": 2.099,
       "e10": 2.039,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.02,
       "e5": 0.02,
       "e10": 0.02,
       "hvo": null
@@ -484,7 +503,7 @@
       "e5": 2.099,
       "e10": 2.039,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -503,7 +522,7 @@
       "e5": 2.109,
       "e10": 2.049,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -522,10 +541,10 @@
       "e5": 2.109,
       "e10": 2.049,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.02,
       "e5": 0.02,
       "e10": 0.02,
       "hvo": null
@@ -541,10 +560,10 @@
       "e5": 2.009,
       "e10": 1.949,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
       "hvo": null
@@ -560,10 +579,10 @@
       "e5": 2.019,
       "e10": 1.959,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
       "hvo": null
@@ -579,10 +598,10 @@
       "e5": 2.019,
       "e10": 1.959,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
       "hvo": null
@@ -598,10 +617,10 @@
       "e5": 2.009,
       "e10": 1.949,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
       "hvo": null
@@ -617,50 +636,12 @@
       "e5": 2.009,
       "e10": null,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
-    },
-    "change": {
-      "diesel": 0.0,
-      "e5": 0.01,
-      "e10": null,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "b5b6e385-c0ee-4279-86b8-8132ad7754e6",
-    "station_name": "TotalEnergies Mengerskirchen",
-    "brand": "TotalEnergies",
-    "distance_km": 11.8,
-    "current": {
-      "diesel": 2.059,
-      "e5": 2.009,
-      "e10": 1.949,
-      "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.01,
       "e5": 0.01,
-      "e10": 0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "d9d63b96-111f-4218-998a-aa318caa100d",
-    "station_name": "TotalEnergies Weilmuenster",
-    "brand": "TotalEnergies",
-    "distance_km": 13.8,
-    "current": {
-      "diesel": 2.069,
-      "e5": 2.029,
-      "e10": 1.969,
-      "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
-    },
-    "change": {
-      "diesel": -0.01,
-      "e5": -0.01,
-      "e10": -0.01,
+      "e10": null,
       "hvo": null
     }
   },
@@ -674,7 +655,7 @@
       "e5": 2.459,
       "e10": 2.399,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -693,7 +674,26 @@
       "e5": 2.019,
       "e10": 1.959,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
+    },
+    "change": {
+      "diesel": 0.0,
+      "e5": 0.0,
+      "e10": 0.0,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "d9d63b96-111f-4218-998a-aa318caa100d",
+    "station_name": "TotalEnergies Weilmuenster",
+    "brand": "TotalEnergies",
+    "distance_km": 13.8,
+    "current": {
+      "diesel": 2.069,
+      "e5": 2.029,
+      "e10": 1.969,
+      "hvo": null,
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -712,7 +712,7 @@
       "e5": 2.019,
       "e10": 1.959,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -731,7 +731,7 @@
       "e5": 2.019,
       "e10": 1.959,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -750,7 +750,7 @@
       "e5": 2.459,
       "e10": 2.399,
       "hvo": null,
-      "timestamp": "2026-05-03T17:31:43.958103+00:00"
+      "timestamp": "2026-05-03T20:02:35.555745+00:00"
     },
     "change": {
       "diesel": 0.0,
