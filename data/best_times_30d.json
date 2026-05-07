@@ -1,8 +1,8 @@
 {
   "diesel": {
     "window_days": 30,
-    "best_slot": "01:00",
-    "best_price": 2.052,
+    "best_slot": "15:00",
+    "best_price": 2.012,
     "samples": 1,
     "enough_data": true,
     "slots": [
@@ -92,11 +92,6 @@
         "samples": 3
       },
       {
-        "slot": "12:30",
-        "avg_price": 2.486,
-        "samples": 2
-      },
-      {
         "slot": "13:00",
         "avg_price": 2.244,
         "samples": 3
@@ -110,6 +105,11 @@
         "slot": "14:30",
         "avg_price": 2.251,
         "samples": 5
+      },
+      {
+        "slot": "15:00",
+        "avg_price": 2.012,
+        "samples": 1
       },
       {
         "slot": "15:30",
@@ -195,8 +195,8 @@
   },
   "e5": {
     "window_days": 30,
-    "best_slot": "01:00",
-    "best_price": 2.064,
+    "best_slot": "15:00",
+    "best_price": 2.027,
     "samples": 1,
     "enough_data": true,
     "slots": [
@@ -286,11 +286,6 @@
         "samples": 3
       },
       {
-        "slot": "12:30",
-        "avg_price": 2.278,
-        "samples": 2
-      },
-      {
         "slot": "13:00",
         "avg_price": 2.204,
         "samples": 3
@@ -304,6 +299,11 @@
         "slot": "14:30",
         "avg_price": 2.158,
         "samples": 5
+      },
+      {
+        "slot": "15:00",
+        "avg_price": 2.027,
+        "samples": 1
       },
       {
         "slot": "15:30",
@@ -389,8 +389,8 @@
   },
   "e10": {
     "window_days": 30,
-    "best_slot": "01:00",
-    "best_price": 2.008,
+    "best_slot": "15:00",
+    "best_price": 1.969,
     "samples": 1,
     "enough_data": true,
     "slots": [
@@ -480,11 +480,6 @@
         "samples": 3
       },
       {
-        "slot": "12:30",
-        "avg_price": 2.219,
-        "samples": 2
-      },
-      {
         "slot": "13:00",
         "avg_price": 2.145,
         "samples": 3
@@ -498,6 +493,11 @@
         "slot": "14:30",
         "avg_price": 2.1,
         "samples": 5
+      },
+      {
+        "slot": "15:00",
+        "avg_price": 1.969,
+        "samples": 1
       },
       {
         "slot": "15:30",
