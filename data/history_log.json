@@ -96914,5 +96914,416 @@
         "is_open": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-05-09T10:13:50",
+    "averages": {
+      "diesel": 2.132,
+      "e5": 2.152,
+      "e10": 2.092,
+      "hvo": null
+    },
+    "stations": [
+      {
+        "id": "98031106-362c-4497-81e3-2960479a97cc",
+        "name": "AVIA XPress",
+        "brand": "AVIA XPress",
+        "diesel": 2.099,
+        "e5": 2.119,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "099f7a03-ab8e-4726-8e19-1f639235ab75",
+        "name": "Aral Tankstelle",
+        "brand": "ARAL",
+        "diesel": 2.109,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "d92bf8aa-66ac-4bf9-a49f-ccf1376e160d",
+        "name": "Auto Bergner UG & Co. KG",
+        "brand": "ED",
+        "diesel": 1.959,
+        "e5": 2.029,
+        "e10": 1.969,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "24616205-2853-41c4-967f-b8b2fbd27241",
+        "name": "ENI",
+        "brand": "AGIP ENI",
+        "diesel": 2.109,
+        "e5": 2.149,
+        "e10": 2.089,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "005056a9-4231-1edd-b7d3-7700c0b5500a",
+        "name": "ENI",
+        "brand": "AGIP ENI",
+        "diesel": 2.109,
+        "e5": 2.149,
+        "e10": 2.089,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "edd6503a-e7fa-411b-9d96-10dafcd24c2a",
+        "name": "TotalEnergies  Tankstelle Solms",
+        "brand": "TotalEnergies",
+        "diesel": 2.109,
+        "e5": 2.139,
+        "e10": 2.079,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "1edacedd-2aea-459c-bdfb-97186e07f365",
+        "name": "Shell Weilburg Limburger Str. 38",
+        "brand": "Shell",
+        "diesel": 2.129,
+        "e5": 2.139,
+        "e10": 2.079,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "aa842438-c80d-46c1-828f-2cadb756d020",
+        "name": "Tankstelle Solms",
+        "brand": "Roth- Energie",
+        "diesel": 2.079,
+        "e5": 2.149,
+        "e10": 2.089,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "7cf93a45-2a30-4fd7-a7e4-a947b5c275f4",
+        "name": "Shell Ehringshausen Koelschhaeuser Str. 1",
+        "brand": "Shell",
+        "diesel": 2.129,
+        "e5": 2.139,
+        "e10": 2.079,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "51d4b54d-a095-1aa0-e100-80009459e03a",
+        "name": "JET WEILBURG JOHANN-ERNST-STR. 1",
+        "brand": "JET",
+        "diesel": 2.139,
+        "e5": 2.119,
+        "e10": 2.059,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "e76b5d9e-3599-4ece-b6e5-5227584db6b3",
+        "name": "Esso Tankstelle",
+        "brand": "ESSO",
+        "diesel": 2.159,
+        "e5": 2.149,
+        "e10": 2.089,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "2c47e122-1308-4489-a219-a8dff0fcd59a",
+        "name": "Tankstelle",
+        "brand": "Freie Tankstelle",
+        "diesel": 2.109,
+        "e5": 2.189,
+        "e10": 2.129,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "ef051c15-c632-4657-b6a2-29ec7d504873",
+        "name": "EHRINGSHAUSEN - KOELSCHHAEUSER STR.",
+        "brand": "AGIP ENI",
+        "diesel": 2.109,
+        "e5": 2.149,
+        "e10": 2.089,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "17628250-aad8-41f4-a964-2c900c0e77e1",
+        "name": "Shell Ehringshausen A45 Katzenfurt Sued",
+        "brand": "Shell",
+        "diesel": 2.629,
+        "e5": 2.589,
+        "e10": 2.529,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "01ce0606-384f-4f9c-839f-6a37e5076158",
+        "name": "AVIA XPress",
+        "brand": "AVIA XPress",
+        "diesel": 2.149,
+        "e5": 2.199,
+        "e10": null,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "b8319d59-7e81-48ab-a69b-de15767f4504",
+        "name": "Esso Tankstelle",
+        "brand": "ESSO",
+        "diesel": 2.159,
+        "e5": 2.149,
+        "e10": 2.089,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "1ca9e48b-4acc-482e-9cc0-2eaf90b9523b",
+        "name": "Bft Sinn Wetzlarerstraße 47",
+        "brand": "bft",
+        "diesel": 2.119,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "3f8b6120-ea6c-4694-8255-b1172febf57a",
+        "name": "Aral Tankstelle",
+        "brand": "ARAL",
+        "diesel": 2.109,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "8b04490b-08f6-417f-bc36-393cf25eebf6",
+        "name": "Metz GmbH",
+        "brand": "Metz GmbH",
+        "diesel": 2.029,
+        "e5": 2.059,
+        "e10": 1.999,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "b5b6e385-c0ee-4279-86b8-8132ad7754e6",
+        "name": "TotalEnergies Mengerskirchen",
+        "brand": "TotalEnergies",
+        "diesel": 2.079,
+        "e5": 2.099,
+        "e10": 2.039,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "c2b95d43-704e-456f-914d-e563646cc2da",
+        "name": "AVIA Tankstelle",
+        "brand": "AVIA",
+        "diesel": 2.089,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "51d4b5de-a095-1aa0-e100-80009459e03a",
+        "name": "JET WETZLAR BRAUNFELSER STR. 53",
+        "brand": "JET",
+        "diesel": 2.139,
+        "e5": 2.119,
+        "e10": 2.059,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "55e9a426-fb80-45b0-9171-87d561b88b0c",
+        "name": "Esso Tankstelle",
+        "brand": "ESSO",
+        "diesel": 2.159,
+        "e5": 2.149,
+        "e10": 2.089,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "aa842438-c80d-46c1-828f-2cadb756d011",
+        "name": "Tankstelle Wetzlar",
+        "brand": "Roth- Energie",
+        "diesel": 2.079,
+        "e5": 2.149,
+        "e10": 2.089,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "09f2d06a-1768-4c15-ac43-dbdb5518019a",
+        "name": "AVIA XPress",
+        "brand": "AVIA XPress",
+        "diesel": 2.099,
+        "e5": 2.119,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "00061796-1231-4444-8888-acdc00001231",
+        "name": "Mengin Tank-Stop Schöffengrund",
+        "brand": "Mengin",
+        "diesel": 2.069,
+        "e5": 2.139,
+        "e10": 2.079,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "51d4b4a6-a095-1aa0-e100-80009459e03a",
+        "name": "JET WETZLAR HERMANNSTEINER STR. 67",
+        "brand": "JET",
+        "diesel": 2.139,
+        "e5": 2.119,
+        "e10": 2.059,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "25c8c38d-c34f-4f8b-953d-0f200c28c27c",
+        "name": "Aral Tankstelle",
+        "brand": "ARAL",
+        "diesel": 2.109,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "175ab015-139e-4515-9978-ea4e3679cf7a",
+        "name": "Access Tankstelle Wetzlar",
+        "brand": "Access",
+        "diesel": 2.099,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "f0388b43-f365-4bde-8550-de43a21ea056",
+        "name": "AVIA Tankstelle",
+        "brand": "AVIA",
+        "diesel": 2.079,
+        "e5": 2.119,
+        "e10": 2.059,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "52a8039f-60c5-49be-9ddd-91f54298c22c",
+        "name": "Aral Tankstelle",
+        "brand": "ARAL",
+        "diesel": 2.109,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "d9d63b96-111f-4218-998a-aa318caa100d",
+        "name": "TotalEnergies Weilmuenster",
+        "brand": "TotalEnergies",
+        "diesel": 2.079,
+        "e5": 2.099,
+        "e10": 2.039,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "af93b17c-8eba-4245-84dd-9feb83032ab5",
+        "name": "BELL Oil",
+        "brand": "BELL Oil",
+        "diesel": 2.109,
+        "e5": 2.119,
+        "e10": 2.059,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "9d9d582a-485e-4f7c-b65f-20bbf44881a8",
+        "name": "Shell Herborn Im Breiten Boden 2",
+        "brand": "Shell",
+        "diesel": 2.129,
+        "e5": 2.139,
+        "e10": 2.079,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "623fd837-bb4d-4369-855e-46eb3f09d79c",
+        "name": "Aral Tankstelle",
+        "brand": "ARAL",
+        "diesel": 2.109,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "b0e00999-b9ea-4568-bcf7-44d1f22cc9de",
+        "name": "Aral Tankstelle",
+        "brand": "ARAL",
+        "diesel": 2.119,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "0af7de31-894a-4493-ab7f-130bb069e3a8",
+        "name": "Aral Tankstelle",
+        "brand": "ARAL",
+        "diesel": 2.119,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "c6937aa5-1f5b-46bf-aae8-015096ea012d",
+        "name": "Esso Tankstelle",
+        "brand": "ESSO",
+        "diesel": 2.589,
+        "e5": 2.549,
+        "e10": 2.489,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "db4593f8-3225-4ca6-8709-fedffb306d35",
+        "name": "Shell Wetzlar Frankfurter Str. 95",
+        "brand": "Shell",
+        "diesel": 2.129,
+        "e5": 2.139,
+        "e10": 2.079,
+        "hvo": null,
+        "is_open": true
+      },
+      {
+        "id": "d081a49b-24e9-4af7-861f-96b5bc6e9a70",
+        "name": "Aral Tankstelle",
+        "brand": "ARAL",
+        "diesel": 2.109,
+        "e5": 2.129,
+        "e10": 2.069,
+        "hvo": null,
+        "is_open": true
+      }
+    ]
   }
 ]
