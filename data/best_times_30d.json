@@ -2,8 +2,8 @@
   "diesel": {
     "window_days": 30,
     "best_slot": "04:30",
-    "best_price": 1.977,
-    "samples": 1,
+    "best_price": 1.97,
+    "samples": 2,
     "enough_data": true,
     "slots": [
       {
@@ -18,8 +18,8 @@
       },
       {
         "slot": "04:30",
-        "avg_price": 1.977,
-        "samples": 1
+        "avg_price": 1.97,
+        "samples": 2
       },
       {
         "slot": "05:00",
@@ -206,8 +206,8 @@
   "e5": {
     "window_days": 30,
     "best_slot": "04:30",
-    "best_price": 2.006,
-    "samples": 1,
+    "best_price": 2.01,
+    "samples": 2,
     "enough_data": true,
     "slots": [
       {
@@ -222,8 +222,8 @@
       },
       {
         "slot": "04:30",
-        "avg_price": 2.006,
-        "samples": 1
+        "avg_price": 2.01,
+        "samples": 2
       },
       {
         "slot": "05:00",
@@ -410,8 +410,8 @@
   "e10": {
     "window_days": 30,
     "best_slot": "04:30",
-    "best_price": 1.948,
-    "samples": 1,
+    "best_price": 1.952,
+    "samples": 2,
     "enough_data": true,
     "slots": [
       {
@@ -426,8 +426,8 @@
       },
       {
         "slot": "04:30",
-        "avg_price": 1.948,
-        "samples": 1
+        "avg_price": 1.952,
+        "samples": 2
       },
       {
         "slot": "05:00",
