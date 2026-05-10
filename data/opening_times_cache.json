@@ -172,7 +172,7 @@
     "isOpen": true,
     "e5": 2.009,
     "e10": 1.949,
-    "diesel": 1.939,
+    "diesel": 1.929,
     "lat": 50.554352,
     "lng": 8.41254,
     "state": null
@@ -208,9 +208,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 1.989,
-    "e10": 1.929,
-    "diesel": 1.929,
+    "e5": 1.999,
+    "e10": 1.939,
+    "diesel": 1.919,
     "lat": 50.53001,
     "lng": 8.41137,
     "state": null
@@ -466,7 +466,7 @@
     "isOpen": false,
     "e5": 1.949,
     "e10": 1.889,
-    "diesel": 1.909,
+    "diesel": 1.899,
     "lat": 50.6468,
     "lng": 8.33165,
     "state": null
@@ -520,7 +520,7 @@
     "isOpen": true,
     "e5": 1.949,
     "e10": 1.889,
-    "diesel": 1.909,
+    "diesel": 1.899,
     "lat": 50.654991,
     "lng": 8.321573,
     "state": null
@@ -585,7 +585,7 @@
     "isOpen": false,
     "e5": 2.019,
     "e10": 1.959,
-    "diesel": 1.949,
+    "diesel": 1.939,
     "lat": 50.564722,
     "lng": 8.477448,
     "state": null
@@ -618,9 +618,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 1.989,
-    "e10": 1.929,
-    "diesel": 1.929,
+    "e5": 1.999,
+    "e10": 1.939,
+    "diesel": 1.919,
     "lat": 50.54996,
     "lng": 8.48133,
     "state": "deHE"
@@ -667,9 +667,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 1.989,
-    "e10": 1.929,
-    "diesel": 1.929,
+    "e5": 1.999,
+    "e10": 1.939,
+    "diesel": 1.919,
     "lat": 50.56642,
     "lng": 8.48478,
     "state": null
@@ -693,5 +693,5 @@
     "lng": 8.290949,
     "state": null
   },
-  "_fetched_date": "2026-05-09"
+  "_fetched_date": "2026-05-10"
 }
