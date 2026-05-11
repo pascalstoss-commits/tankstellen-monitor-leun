@@ -110,5 +110,13 @@
     "max_price": 2.077,
     "readings": 501,
     "snapshots": 16
+  },
+  {
+    "day": "2026-05-11",
+    "avg_price": 1.979,
+    "min_price": 1.979,
+    "max_price": 1.979,
+    "readings": 18,
+    "snapshots": 1
   }
 ]

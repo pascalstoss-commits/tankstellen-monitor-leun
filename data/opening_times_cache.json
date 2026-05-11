@@ -520,7 +520,7 @@
     "isOpen": true,
     "e5": 1.949,
     "e10": 1.889,
-    "diesel": 1.899,
+    "diesel": 1.889,
     "lat": 50.654991,
     "lng": 8.321573,
     "state": null
@@ -600,13 +600,13 @@
     "place": "WETZLAR",
     "openingTimes": [
       {
-        "text": "Mo-Fr",
-        "start": "05:30:00",
+        "text": "Samstag",
+        "start": "07:00:00",
         "end": "22:00:00"
       },
       {
-        "text": "Samstag",
-        "start": "07:00:00",
+        "text": "Mo-Fr",
+        "start": "05:30:00",
         "end": "22:00:00"
       },
       {
@@ -693,5 +693,5 @@
     "lng": 8.290949,
     "state": null
   },
-  "_fetched_date": "2026-05-10"
+  "_fetched_date": "2026-05-11"
 }
