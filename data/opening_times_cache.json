@@ -13,7 +13,7 @@
     "isOpen": true,
     "e5": 2.009,
     "e10": 1.959,
-    "diesel": 1.939,
+    "diesel": 1.959,
     "lat": 50.581267,
     "lng": 8.297537,
     "state": null
@@ -48,7 +48,7 @@
     "isOpen": false,
     "e5": 2.009,
     "e10": 1.949,
-    "diesel": 1.939,
+    "diesel": 1.959,
     "lat": 50.548084,
     "lng": 8.358471,
     "state": null
@@ -83,7 +83,7 @@
     "isOpen": false,
     "e5": 1.949,
     "e10": 1.889,
-    "diesel": 1.899,
+    "diesel": 1.919,
     "lat": 50.51334,
     "lng": 8.273964,
     "state": "deHE"
@@ -116,9 +116,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 2.019,
-    "e10": 1.959,
-    "diesel": 1.929,
+    "e5": 2.029,
+    "e10": 1.969,
+    "diesel": 1.959,
     "lat": 50.517574,
     "lng": 8.3904,
     "state": "deHE"
@@ -151,9 +151,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 2.019,
-    "e10": 1.959,
-    "diesel": 1.929,
+    "e5": 2.029,
+    "e10": 1.969,
+    "diesel": 1.959,
     "lat": 50.54344,
     "lng": 8.4112,
     "state": "deHE"
@@ -172,7 +172,7 @@
     "isOpen": true,
     "e5": 2.009,
     "e10": 1.949,
-    "diesel": 1.929,
+    "diesel": 1.959,
     "lat": 50.554352,
     "lng": 8.41254,
     "state": null
@@ -191,7 +191,7 @@
     "isOpen": true,
     "e5": 1.959,
     "e10": 1.899,
-    "diesel": 1.909,
+    "diesel": 1.929,
     "lat": 50.490331,
     "lng": 8.258516,
     "state": null
@@ -208,9 +208,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 1.999,
-    "e10": 1.939,
-    "diesel": 1.919,
+    "e5": 1.989,
+    "e10": 1.929,
+    "diesel": 1.939,
     "lat": 50.53001,
     "lng": 8.41137,
     "state": null
@@ -250,7 +250,7 @@
     "isOpen": false,
     "e5": 2.009,
     "e10": 1.949,
-    "diesel": 1.939,
+    "diesel": 1.959,
     "lat": 50.602748,
     "lng": 8.381792,
     "state": null
@@ -290,7 +290,7 @@
     "isOpen": false,
     "e5": 1.949,
     "e10": 1.889,
-    "diesel": 1.899,
+    "diesel": 1.919,
     "lat": 50.48204,
     "lng": 8.28443,
     "state": "deHE"
@@ -325,7 +325,7 @@
     "isOpen": false,
     "e5": 1.959,
     "e10": 1.899,
-    "diesel": 1.909,
+    "diesel": 1.929,
     "lat": 50.481546,
     "lng": 8.281717,
     "state": null
@@ -344,7 +344,7 @@
     "isOpen": true,
     "e5": 1.949,
     "e10": 1.889,
-    "diesel": 1.899,
+    "diesel": 1.919,
     "lat": 50.481099,
     "lng": 8.279904,
     "state": null
@@ -372,9 +372,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 2.019,
-    "e10": 1.959,
-    "diesel": 1.939,
+    "e5": 2.029,
+    "e10": 1.969,
+    "diesel": 1.959,
     "lat": 50.607457126601,
     "lng": 8.383106274743,
     "state": "deHE"
@@ -391,9 +391,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 2.489,
-    "e10": 2.429,
-    "diesel": 2.529,
+    "e5": 2.589,
+    "e10": 2.529,
+    "diesel": 1.849,
     "lat": 50.621251,
     "lng": 8.361877,
     "state": null
@@ -412,7 +412,7 @@
     "isOpen": true,
     "e5": 1.949,
     "e10": null,
-    "diesel": 1.899,
+    "diesel": 1.919,
     "lat": 50.495503,
     "lng": 8.196106,
     "state": null
@@ -431,7 +431,7 @@
     "isOpen": true,
     "e5": 1.969,
     "e10": 1.909,
-    "diesel": 1.919,
+    "diesel": 1.929,
     "lat": 50.4989591,
     "lng": 8.1838982,
     "state": null
@@ -464,9 +464,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 1.949,
-    "e10": 1.889,
-    "diesel": 1.899,
+    "e5": 1.959,
+    "e10": 1.899,
+    "diesel": 1.949,
     "lat": 50.6468,
     "lng": 8.33165,
     "state": null
@@ -501,7 +501,7 @@
     "isOpen": false,
     "e5": 1.979,
     "e10": 1.919,
-    "diesel": 1.929,
+    "diesel": 1.949,
     "lat": 50.61818,
     "lng": 8.192196,
     "state": null
@@ -518,9 +518,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 1.949,
-    "e10": 1.889,
-    "diesel": 1.889,
+    "e5": 1.959,
+    "e10": 1.899,
+    "diesel": 1.939,
     "lat": 50.654991,
     "lng": 8.321573,
     "state": null
@@ -555,7 +555,7 @@
     "isOpen": false,
     "e5": 1.949,
     "e10": 1.889,
-    "diesel": 1.899,
+    "diesel": 1.919,
     "lat": 50.53168,
     "lng": 8.143343,
     "state": null
@@ -585,7 +585,7 @@
     "isOpen": false,
     "e5": 2.019,
     "e10": 1.959,
-    "diesel": 1.939,
+    "diesel": 1.959,
     "lat": 50.564722,
     "lng": 8.477448,
     "state": null
@@ -618,9 +618,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 1.999,
-    "e10": 1.939,
-    "diesel": 1.919,
+    "e5": 1.989,
+    "e10": 1.929,
+    "diesel": 1.939,
     "lat": 50.54996,
     "lng": 8.48133,
     "state": "deHE"
@@ -650,7 +650,7 @@
     "isOpen": false,
     "e5": 2.009,
     "e10": 1.949,
-    "diesel": 1.939,
+    "diesel": 1.959,
     "lat": 50.586093,
     "lng": 8.472626,
     "state": null
@@ -667,9 +667,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 1.999,
-    "e10": 1.939,
-    "diesel": 1.919,
+    "e5": 1.989,
+    "e10": 1.929,
+    "diesel": 1.939,
     "lat": 50.56642,
     "lng": 8.48478,
     "state": null
@@ -688,10 +688,10 @@
     "isOpen": true,
     "e5": 1.949,
     "e10": 1.899,
-    "diesel": 1.899,
+    "diesel": 1.919,
     "lat": 50.437499,
     "lng": 8.290949,
     "state": null
   },
-  "_fetched_date": "2026-05-11"
+  "_fetched_date": "2026-05-12"
 }
