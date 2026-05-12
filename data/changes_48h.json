@@ -9,12 +9,50 @@
       "e5": 2.589,
       "e10": 2.529,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": -0.68,
       "e5": 0.1,
       "e10": 0.1,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "d92bf8aa-66ac-4bf9-a49f-ccf1376e160d",
+    "station_name": "Auto Bergner UG & Co. KG",
+    "brand": "ED",
+    "distance_km": 4.8,
+    "current": {
+      "diesel": 1.879,
+      "e5": 1.949,
+      "e10": 1.889,
+      "hvo": null,
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
+    },
+    "change": {
+      "diesel": 0.02,
+      "e5": 0.03,
+      "e10": 0.03,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "00061796-1231-4444-8888-acdc00001231",
+    "station_name": "Mengin Tank-Stop Schöffengrund",
+    "brand": "Mengin",
+    "distance_km": 13.2,
+    "current": {
+      "diesel": 1.939,
+      "e5": 1.989,
+      "e10": 1.929,
+      "hvo": null,
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
+    },
+    "change": {
+      "diesel": 0.0,
+      "e5": -0.03,
+      "e10": -0.03,
       "hvo": null
     }
   },
@@ -28,7 +66,7 @@
       "e5": 2.009,
       "e10": 1.959,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -47,7 +85,7 @@
       "e5": 2.009,
       "e10": 1.949,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -63,10 +101,10 @@
     "distance_km": 6.9,
     "current": {
       "diesel": 1.949,
-      "e5": 2.009,
-      "e10": 1.949,
+      "e5": 1.999,
+      "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -82,10 +120,10 @@
     "distance_km": 7.4,
     "current": {
       "diesel": 1.949,
-      "e5": 2.009,
-      "e10": 1.949,
+      "e5": 1.999,
+      "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -101,15 +139,15 @@
     "distance_km": 7.4,
     "current": {
       "diesel": 1.949,
-      "e5": 2.009,
-      "e10": 1.949,
+      "e5": 1.999,
+      "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": 0.0,
-      "e10": 0.0,
+      "e5": -0.01,
+      "e10": -0.01,
       "hvo": null
     }
   },
@@ -123,7 +161,7 @@
       "e5": 1.959,
       "e10": 1.899,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -142,7 +180,7 @@
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -161,7 +199,7 @@
       "e5": 2.009,
       "e10": 1.949,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -180,7 +218,7 @@
       "e5": 1.949,
       "e10": 1.889,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -199,7 +237,7 @@
       "e5": 1.959,
       "e10": 1.899,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -218,7 +256,7 @@
       "e5": 1.949,
       "e10": 1.889,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -237,12 +275,12 @@
       "e5": 2.009,
       "e10": 1.949,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": -0.01,
-      "e10": -0.01,
+      "e5": 0.0,
+      "e10": 0.0,
       "hvo": null
     }
   },
@@ -256,12 +294,31 @@
       "e5": 1.949,
       "e10": null,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
       "e5": 0.0,
       "e10": null,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "b8319d59-7e81-48ab-a69b-de15767f4504",
+    "station_name": "Esso Tankstelle",
+    "brand": "ESSO",
+    "distance_km": 10.5,
+    "current": {
+      "diesel": 1.929,
+      "e5": 1.969,
+      "e10": 1.909,
+      "hvo": null,
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
+    },
+    "change": {
+      "diesel": 0.02,
+      "e5": 0.0,
+      "e10": 0.0,
       "hvo": null
     }
   },
@@ -275,7 +332,7 @@
       "e5": 1.979,
       "e10": 1.919,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -294,7 +351,7 @@
       "e5": 1.929,
       "e10": 1.869,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.01,
@@ -313,7 +370,7 @@
       "e5": 1.949,
       "e10": 1.889,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -329,15 +386,15 @@
     "distance_km": 12.1,
     "current": {
       "diesel": 1.959,
-      "e5": 2.019,
-      "e10": 1.959,
+      "e5": 2.009,
+      "e10": 1.949,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": 0.0,
-      "e10": 0.0,
+      "e5": -0.01,
+      "e10": -0.01,
       "hvo": null
     }
   },
@@ -351,7 +408,7 @@
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -370,7 +427,7 @@
       "e5": 2.009,
       "e10": 1.949,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -389,7 +446,7 @@
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -408,31 +465,12 @@
       "e5": 1.949,
       "e10": 1.899,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
       "e5": 0.0,
       "e10": 0.0,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "00061796-1231-4444-8888-acdc00001231",
-    "station_name": "Mengin Tank-Stop Schöffengrund",
-    "brand": "Mengin",
-    "distance_km": 13.2,
-    "current": {
-      "diesel": 1.939,
-      "e5": 1.999,
-      "e10": 1.939,
-      "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
-    },
-    "change": {
-      "diesel": 0.0,
-      "e5": -0.02,
-      "e10": -0.02,
       "hvo": null
     }
   },
@@ -446,7 +484,7 @@
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -465,7 +503,7 @@
       "e5": 2.019,
       "e10": 1.959,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -484,7 +522,7 @@
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -503,7 +541,7 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -522,7 +560,7 @@
       "e5": 2.019,
       "e10": 1.959,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -532,21 +570,40 @@
     }
   },
   {
+    "station_id": "af93b17c-8eba-4245-84dd-9feb83032ab5",
+    "station_name": "BELL Oil",
+    "brand": "BELL Oil",
+    "distance_km": 13.8,
+    "current": {
+      "diesel": 1.909,
+      "e5": 1.939,
+      "e10": 1.879,
+      "hvo": null,
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
+    },
+    "change": {
+      "diesel": 0.01,
+      "e5": -0.02,
+      "e10": -0.02,
+      "hvo": null
+    }
+  },
+  {
     "station_id": "9d9d582a-485e-4f7c-b65f-20bbf44881a8",
     "station_name": "Shell Herborn Im Breiten Boden 2",
     "brand": "Shell",
     "distance_km": 14.0,
     "current": {
-      "diesel": 1.939,
-      "e5": 1.959,
-      "e10": 1.899,
+      "diesel": 1.919,
+      "e5": 1.949,
+      "e10": 1.889,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
-      "diesel": 0.02,
-      "e5": -0.01,
-      "e10": -0.01,
+      "diesel": 0.01,
+      "e5": -0.02,
+      "e10": -0.02,
       "hvo": null
     }
   },
@@ -560,7 +617,45 @@
       "e5": 1.969,
       "e10": 1.909,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
+    },
+    "change": {
+      "diesel": 0.02,
+      "e5": 0.0,
+      "e10": 0.0,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "b0e00999-b9ea-4568-bcf7-44d1f22cc9de",
+    "station_name": "Aral Tankstelle",
+    "brand": "ARAL",
+    "distance_km": 15.1,
+    "current": {
+      "diesel": 1.929,
+      "e5": 1.969,
+      "e10": 1.909,
+      "hvo": null,
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
+    },
+    "change": {
+      "diesel": 0.02,
+      "e5": 0.0,
+      "e10": 0.0,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "0af7de31-894a-4493-ab7f-130bb069e3a8",
+    "station_name": "Aral Tankstelle",
+    "brand": "ARAL",
+    "distance_km": 15.2,
+    "current": {
+      "diesel": 1.929,
+      "e5": 1.969,
+      "e10": 1.909,
+      "hvo": null,
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -579,7 +674,7 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -598,29 +693,10 @@
       "e5": 1.969,
       "e10": 1.909,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.02,
-      "e5": 0.0,
-      "e10": 0.0,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "b8319d59-7e81-48ab-a69b-de15767f4504",
-    "station_name": "Esso Tankstelle",
-    "brand": "ESSO",
-    "distance_km": 10.5,
-    "current": {
-      "diesel": 1.929,
-      "e5": 1.969,
-      "e10": 1.909,
-      "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
-    },
-    "change": {
-      "diesel": 0.01,
       "e5": 0.0,
       "e10": 0.0,
       "hvo": null
@@ -636,7 +712,7 @@
       "e5": 1.939,
       "e10": 1.879,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.01,
@@ -651,92 +727,16 @@
     "brand": "TotalEnergies",
     "distance_km": 13.8,
     "current": {
-      "diesel": 1.929,
+      "diesel": 1.909,
       "e5": 1.959,
       "e10": 1.899,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "af93b17c-8eba-4245-84dd-9feb83032ab5",
-    "station_name": "BELL Oil",
-    "brand": "BELL Oil",
-    "distance_km": 13.8,
-    "current": {
-      "diesel": 1.919,
-      "e5": 1.959,
-      "e10": 1.899,
-      "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
-    },
-    "change": {
-      "diesel": 0.01,
-      "e5": 0.0,
-      "e10": 0.0,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "b0e00999-b9ea-4568-bcf7-44d1f22cc9de",
-    "station_name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "distance_km": 15.1,
-    "current": {
-      "diesel": 1.929,
-      "e5": 1.969,
-      "e10": 1.909,
-      "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
-    },
-    "change": {
-      "diesel": 0.01,
-      "e5": 0.0,
-      "e10": 0.0,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "0af7de31-894a-4493-ab7f-130bb069e3a8",
-    "station_name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "distance_km": 15.2,
-    "current": {
-      "diesel": 1.929,
-      "e5": 1.969,
-      "e10": 1.909,
-      "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
-    },
-    "change": {
-      "diesel": 0.01,
-      "e5": 0.0,
-      "e10": 0.0,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "d92bf8aa-66ac-4bf9-a49f-ccf1376e160d",
-    "station_name": "Auto Bergner UG & Co. KG",
-    "brand": "ED",
-    "distance_km": 4.8,
-    "current": {
-      "diesel": 1.899,
-      "e5": 1.949,
-      "e10": 1.889,
-      "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
-    },
-    "change": {
-      "diesel": 0.0,
-      "e5": 0.0,
-      "e10": 0.0,
       "hvo": null
     }
   },
@@ -750,7 +750,7 @@
       "e5": 2.489,
       "e10": 2.429,
       "hvo": null,
-      "timestamp": "2026-05-12T06:43:05.925290+00:00"
+      "timestamp": "2026-05-12T09:47:26.176672+00:00"
     },
     "change": {
       "diesel": 0.0,
