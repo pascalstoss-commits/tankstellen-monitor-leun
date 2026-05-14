@@ -19,7 +19,7 @@
     "e5": 2.009,
     "e10": 1.959,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -35,7 +35,7 @@
     "lat": 50.548084,
     "lng": 8.358471,
     "distance_km": 3.6,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Mo-Fr",
@@ -60,7 +60,7 @@
     "e5": 2.009,
     "e10": 1.949,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -101,7 +101,7 @@
     "e5": 1.959,
     "e10": 1.899,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -117,7 +117,7 @@
     "lat": 50.517574,
     "lng": 8.3904,
     "distance_km": 6.9,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Mo-Fr",
@@ -142,7 +142,7 @@
     "e5": 2.069,
     "e10": 2.009,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -158,7 +158,7 @@
     "lat": 50.54344,
     "lng": 8.4112,
     "distance_km": 7.4,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Mo-Fr",
@@ -183,7 +183,7 @@
     "e5": 2.069,
     "e10": 2.009,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -208,7 +208,7 @@
     "e5": 2.009,
     "e10": 1.949,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -233,7 +233,7 @@
     "e5": 2.009,
     "e10": 1.949,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -258,7 +258,7 @@
     "e5": 1.969,
     "e10": 1.909,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -274,7 +274,7 @@
     "lat": 50.602748,
     "lng": 8.381792,
     "distance_km": 7.8,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Sonntag, Feiertag",
@@ -304,7 +304,7 @@
     "e5": 2.019,
     "e10": 1.959,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -350,7 +350,7 @@
     "e5": 1.979,
     "e10": 1.919,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -366,7 +366,7 @@
     "lat": 50.481546,
     "lng": 8.281717,
     "distance_km": 7.9,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Mo-Fr",
@@ -391,7 +391,7 @@
     "e5": 1.989,
     "e10": 1.929,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -416,7 +416,7 @@
     "e5": 1.979,
     "e10": 1.919,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -432,7 +432,7 @@
     "lat": 50.607457126601,
     "lng": 8.383106274743,
     "distance_km": 8.2,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Mo-Fr",
@@ -452,7 +452,7 @@
     "e5": 2.069,
     "e10": 2.009,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -477,7 +477,7 @@
     "e5": 2.489,
     "e10": 2.429,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -502,7 +502,7 @@
     "e5": 1.979,
     "e10": null,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -527,7 +527,7 @@
     "e5": 1.969,
     "e10": 1.909,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -543,7 +543,7 @@
     "lat": 50.6468,
     "lng": 8.33165,
     "distance_km": 10.8,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Sonntag, Feiertag",
@@ -568,7 +568,7 @@
     "e5": 1.999,
     "e10": 1.939,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -584,7 +584,7 @@
     "lat": 50.61818,
     "lng": 8.192196,
     "distance_km": 11.1,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Mo-Fr",
@@ -609,7 +609,7 @@
     "e5": 1.979,
     "e10": 1.919,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -634,7 +634,7 @@
     "e5": 1.989,
     "e10": 1.929,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -650,7 +650,7 @@
     "lat": 50.53168,
     "lng": 8.143343,
     "distance_km": 11.8,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Mo-Fr",
@@ -675,7 +675,7 @@
     "e5": 1.949,
     "e10": 1.889,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -691,7 +691,7 @@
     "lat": 50.564722,
     "lng": 8.477448,
     "distance_km": 12.1,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "täglich ausser Sonn- und Feiertagen",
@@ -711,7 +711,7 @@
     "e5": 2.009,
     "e10": 1.949,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -727,7 +727,7 @@
     "lat": 50.54996,
     "lng": 8.48133,
     "distance_km": 12.3,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Mo-Fr",
@@ -752,7 +752,7 @@
     "e5": 1.969,
     "e10": 1.909,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -788,7 +788,7 @@
     "e5": 1.989,
     "e10": 1.929,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -813,7 +813,7 @@
     "e5": 1.969,
     "e10": 1.909,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": true,
     "hvo_source": "Clever Tanken / öffentliche HVO-Seite",
     "hvo_note": "HVO laut Betreiber verfügbar, Preis extern derzeit nicht sicher extrahierbar",
@@ -839,7 +839,7 @@
     "e5": 1.979,
     "e10": 1.929,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -864,7 +864,7 @@
     "e5": 1.969,
     "e10": 1.909,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -889,7 +889,7 @@
     "e5": 1.969,
     "e10": 1.909,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -905,7 +905,7 @@
     "lat": 50.553513,
     "lng": 8.498047,
     "distance_km": 13.4,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [],
     "opening_overrides": [],
     "whole_day": null,
@@ -914,7 +914,7 @@
     "e5": 2.009,
     "e10": 1.949,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -939,7 +939,7 @@
     "e5": 1.969,
     "e10": 1.909,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -964,7 +964,7 @@
     "e5": 1.999,
     "e10": 1.939,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -989,7 +989,7 @@
     "e5": 2.009,
     "e10": 1.949,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1005,7 +1005,7 @@
     "lat": 50.4341,
     "lng": 8.374491,
     "distance_km": 13.8,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [],
     "opening_overrides": [],
     "whole_day": null,
@@ -1014,7 +1014,7 @@
     "e5": 1.989,
     "e10": 1.929,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1030,7 +1030,7 @@
     "lat": 50.675335,
     "lng": 8.306522,
     "distance_km": 13.8,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [],
     "opening_overrides": [],
     "whole_day": null,
@@ -1039,7 +1039,7 @@
     "e5": 1.999,
     "e10": 1.939,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1064,7 +1064,7 @@
     "e5": 2.009,
     "e10": 1.949,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1089,7 +1089,7 @@
     "e5": 2.009,
     "e10": 1.949,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1114,7 +1114,7 @@
     "e5": 1.979,
     "e10": 1.919,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1139,7 +1139,7 @@
     "e5": 1.979,
     "e10": 1.919,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1164,7 +1164,7 @@
     "e5": 2.489,
     "e10": 2.429,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1180,7 +1180,7 @@
     "lat": 50.545509,
     "lng": 8.530058,
     "distance_km": 15.7,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [],
     "opening_overrides": [],
     "whole_day": null,
@@ -1189,7 +1189,7 @@
     "e5": 2.009,
     "e10": 1.949,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1205,7 +1205,7 @@
     "lat": 50.693523,
     "lng": 8.302755,
     "distance_km": 15.9,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [],
     "opening_overrides": [],
     "whole_day": null,
@@ -1214,7 +1214,7 @@
     "e5": 1.999,
     "e10": 1.939,
     "hvo": null,
-    "last_update": "2026-05-14T18:17:50.108360+00:00",
+    "last_update": "2026-05-14T20:16:27.051867+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
