@@ -2,9 +2,9 @@
   "ok": true,
   "location": "Justengarten 4A, 35638 Leun",
   "radius_km": 16.0,
-  "last_fetch": "2026-05-16T22:56:08",
+  "last_fetch": "2026-05-17T00:00:30",
   "station_count": 40,
-  "history_points": 332,
+  "history_points": 333,
   "hvo_strategy": "Tankerkönig für Standardkraftstoffe, Sonderquelle für bekannte HVO-Stationen",
   "hvo_notes": [
     {

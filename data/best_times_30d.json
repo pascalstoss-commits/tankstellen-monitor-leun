@@ -8,8 +8,8 @@
     "slots": [
       {
         "slot": "00:00",
-        "avg_price": 2.095,
-        "samples": 7
+        "avg_price": 2.081,
+        "samples": 8
       },
       {
         "slot": "01:00",
@@ -227,8 +227,8 @@
     "slots": [
       {
         "slot": "00:00",
-        "avg_price": 2.099,
-        "samples": 7
+        "avg_price": 2.092,
+        "samples": 8
       },
       {
         "slot": "01:00",
@@ -446,8 +446,8 @@
     "slots": [
       {
         "slot": "00:00",
-        "avg_price": 2.044,
-        "samples": 7
+        "avg_price": 2.037,
+        "samples": 8
       },
       {
         "slot": "01:00",
