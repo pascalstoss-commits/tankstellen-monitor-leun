@@ -2,8 +2,8 @@
   "diesel": {
     "window_days": 30,
     "best_slot": "18:30",
-    "best_price": 1.956,
-    "samples": 2,
+    "best_price": 1.955,
+    "samples": 3,
     "enough_data": true,
     "slots": [
       {
@@ -153,8 +153,8 @@
       },
       {
         "slot": "17:30",
-        "avg_price": 2.085,
-        "samples": 10
+        "avg_price": 2.078,
+        "samples": 9
       },
       {
         "slot": "18:00",
@@ -163,8 +163,8 @@
       },
       {
         "slot": "18:30",
-        "avg_price": 1.956,
-        "samples": 2
+        "avg_price": 1.955,
+        "samples": 3
       },
       {
         "slot": "19:00",
@@ -372,8 +372,8 @@
       },
       {
         "slot": "17:30",
-        "avg_price": 2.079,
-        "samples": 10
+        "avg_price": 2.077,
+        "samples": 9
       },
       {
         "slot": "18:00",
@@ -382,8 +382,8 @@
       },
       {
         "slot": "18:30",
-        "avg_price": 2.016,
-        "samples": 2
+        "avg_price": 2.019,
+        "samples": 3
       },
       {
         "slot": "19:00",
@@ -591,8 +591,8 @@
       },
       {
         "slot": "17:30",
-        "avg_price": 2.022,
-        "samples": 10
+        "avg_price": 2.019,
+        "samples": 9
       },
       {
         "slot": "18:00",
@@ -601,8 +601,8 @@
       },
       {
         "slot": "18:30",
-        "avg_price": 1.958,
-        "samples": 2
+        "avg_price": 1.96,
+        "samples": 3
       },
       {
         "slot": "19:00",
