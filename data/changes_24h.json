@@ -1,53 +1,15 @@
 [
   {
-    "station_id": "aa842438-c80d-46c1-828f-2cadb756d020",
-    "station_name": "Tankstelle Solms",
-    "brand": "Roth- Energie",
-    "distance_km": 7.7,
-    "current": {
-      "diesel": 1.899,
-      "e5": 1.989,
-      "e10": 1.929,
-      "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
-    },
-    "change": {
-      "diesel": -0.04,
-      "e5": -0.01,
-      "e10": -0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "7cf93a45-2a30-4fd7-a7e4-a947b5c275f4",
-    "station_name": "Shell Ehringshausen Koelschhaeuser Str. 1",
-    "brand": "Shell",
-    "distance_km": 7.8,
-    "current": {
-      "diesel": 1.909,
-      "e5": 2.009,
-      "e10": 1.949,
-      "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
-    },
-    "change": {
-      "diesel": -0.04,
-      "e5": -0.03,
-      "e10": -0.03,
-      "hvo": null
-    }
-  },
-  {
     "station_id": "1ca9e48b-4acc-482e-9cc0-2eaf90b9523b",
     "station_name": "Bft Sinn Wetzlarerstraße 47",
     "brand": "bft",
     "distance_km": 10.8,
     "current": {
-      "diesel": 1.899,
+      "diesel": 1.889,
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.04,
@@ -66,7 +28,7 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.04,
@@ -85,69 +47,12 @@
       "e5": 1.979,
       "e10": 1.919,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.04,
       "e5": -0.03,
       "e10": -0.03,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "55e9a426-fb80-45b0-9171-87d561b88b0c",
-    "station_name": "Esso Tankstelle",
-    "brand": "ESSO",
-    "distance_km": 12.3,
-    "current": {
-      "diesel": 1.909,
-      "e5": 2.009,
-      "e10": 1.949,
-      "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
-    },
-    "change": {
-      "diesel": -0.04,
-      "e5": -0.01,
-      "e10": -0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "aa842438-c80d-46c1-828f-2cadb756d011",
-    "station_name": "Tankstelle Wetzlar",
-    "brand": "Roth- Energie",
-    "distance_km": 12.6,
-    "current": {
-      "diesel": 1.899,
-      "e5": 1.989,
-      "e10": 1.929,
-      "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
-    },
-    "change": {
-      "diesel": -0.04,
-      "e5": -0.01,
-      "e10": -0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "175ab015-139e-4515-9978-ea4e3679cf7a",
-    "station_name": "Access Tankstelle Wetzlar",
-    "brand": "Access",
-    "distance_km": 13.7,
-    "current": {
-      "diesel": 1.899,
-      "e5": 1.989,
-      "e10": 1.929,
-      "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
-    },
-    "change": {
-      "diesel": -0.04,
-      "e5": -0.01,
-      "e10": -0.01,
       "hvo": null
     }
   },
@@ -161,7 +66,7 @@
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.04,
@@ -180,7 +85,7 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.04,
@@ -199,26 +104,7 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
-    },
-    "change": {
-      "diesel": -0.04,
-      "e5": -0.03,
-      "e10": -0.03,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "db4593f8-3225-4ca6-8709-fedffb306d35",
-    "station_name": "Shell Wetzlar Frankfurter Str. 95",
-    "brand": "Shell",
-    "distance_km": 15.7,
-    "current": {
-      "diesel": 1.909,
-      "e5": 1.999,
-      "e10": 1.939,
-      "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.04,
@@ -237,7 +123,7 @@
       "e5": 2.019,
       "e10": 1.969,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -256,7 +142,7 @@
       "e5": 2.019,
       "e10": 1.959,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -275,7 +161,45 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
+    },
+    "change": {
+      "diesel": -0.03,
+      "e5": -0.03,
+      "e10": -0.03,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "aa842438-c80d-46c1-828f-2cadb756d020",
+    "station_name": "Tankstelle Solms",
+    "brand": "Roth- Energie",
+    "distance_km": 7.7,
+    "current": {
+      "diesel": 1.899,
+      "e5": 1.989,
+      "e10": 1.929,
+      "hvo": null,
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
+    },
+    "change": {
+      "diesel": -0.03,
+      "e5": -0.01,
+      "e10": -0.01,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "7cf93a45-2a30-4fd7-a7e4-a947b5c275f4",
+    "station_name": "Shell Ehringshausen Koelschhaeuser Str. 1",
+    "brand": "Shell",
+    "distance_km": 7.8,
+    "current": {
+      "diesel": 1.909,
+      "e5": 2.009,
+      "e10": 1.949,
+      "hvo": null,
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -294,7 +218,7 @@
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -313,7 +237,7 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -332,7 +256,7 @@
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -351,7 +275,7 @@
       "e5": 1.989,
       "e10": null,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -370,7 +294,7 @@
       "e5": 2.009,
       "e10": 1.949,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -389,7 +313,45 @@
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
+    },
+    "change": {
+      "diesel": -0.03,
+      "e5": -0.01,
+      "e10": -0.01,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "55e9a426-fb80-45b0-9171-87d561b88b0c",
+    "station_name": "Esso Tankstelle",
+    "brand": "ESSO",
+    "distance_km": 12.3,
+    "current": {
+      "diesel": 1.909,
+      "e5": 2.009,
+      "e10": 1.949,
+      "hvo": null,
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
+    },
+    "change": {
+      "diesel": -0.03,
+      "e5": -0.01,
+      "e10": -0.01,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "aa842438-c80d-46c1-828f-2cadb756d011",
+    "station_name": "Tankstelle Wetzlar",
+    "brand": "Roth- Energie",
+    "distance_km": 12.6,
+    "current": {
+      "diesel": 1.899,
+      "e5": 1.989,
+      "e10": 1.929,
+      "hvo": null,
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -408,31 +370,12 @@
       "e5": 1.989,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
       "e5": -0.01,
       "e10": -0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "00061796-1231-4444-8888-acdc00001231",
-    "station_name": "Mengin Tank-Stop Schöffengrund",
-    "brand": "Mengin",
-    "distance_km": 13.2,
-    "current": {
-      "diesel": 1.909,
-      "e5": 1.999,
-      "e10": 1.939,
-      "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
-    },
-    "change": {
-      "diesel": -0.03,
-      "e5": -0.01,
-      "e10": -0.02,
       "hvo": null
     }
   },
@@ -446,7 +389,7 @@
       "e5": 1.989,
       "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -465,12 +408,31 @@
       "e5": 2.009,
       "e10": 1.949,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
       "e5": -0.02,
       "e10": -0.02,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "175ab015-139e-4515-9978-ea4e3679cf7a",
+    "station_name": "Access Tankstelle Wetzlar",
+    "brand": "Access",
+    "distance_km": 13.7,
+    "current": {
+      "diesel": 1.899,
+      "e5": 1.989,
+      "e10": 1.929,
+      "hvo": null,
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
+    },
+    "change": {
+      "diesel": -0.03,
+      "e5": -0.01,
+      "e10": -0.01,
       "hvo": null
     }
   },
@@ -484,7 +446,7 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -503,7 +465,7 @@
       "e5": 2.009,
       "e10": 1.949,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -522,12 +484,31 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
       "e5": -0.01,
       "e10": -0.01,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "db4593f8-3225-4ca6-8709-fedffb306d35",
+    "station_name": "Shell Wetzlar Frankfurter Str. 95",
+    "brand": "Shell",
+    "distance_km": 15.7,
+    "current": {
+      "diesel": 1.909,
+      "e5": 1.999,
+      "e10": 1.939,
+      "hvo": null,
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
+    },
+    "change": {
+      "diesel": -0.03,
+      "e5": -0.03,
+      "e10": -0.03,
       "hvo": null
     }
   },
@@ -541,7 +522,7 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.03,
@@ -557,15 +538,15 @@
     "distance_km": 4.8,
     "current": {
       "diesel": 1.879,
-      "e5": 1.989,
-      "e10": 1.929,
+      "e5": 1.979,
+      "e10": 1.919,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.02,
-      "e5": 0.0,
-      "e10": 0.0,
+      "e5": -0.01,
+      "e10": -0.01,
       "hvo": null
     }
   },
@@ -579,12 +560,12 @@
       "e5": 2.019,
       "e10": 1.959,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.02,
-      "e5": -0.02,
-      "e10": -0.02,
+      "e5": -0.01,
+      "e10": -0.01,
       "hvo": null
     }
   },
@@ -598,7 +579,7 @@
       "e5": 2.509,
       "e10": 2.449,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -614,15 +595,15 @@
     "distance_km": 10.5,
     "current": {
       "diesel": 1.889,
-      "e5": 1.999,
-      "e10": 1.939,
+      "e5": 1.989,
+      "e10": 1.929,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.02,
-      "e5": 0.0,
-      "e10": 0.0,
+      "e5": -0.01,
+      "e10": -0.01,
       "hvo": null
     }
   },
@@ -633,15 +614,34 @@
     "distance_km": 11.8,
     "current": {
       "diesel": 1.879,
-      "e5": 1.979,
-      "e10": 1.919,
+      "e5": 1.969,
+      "e10": 1.909,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.02,
-      "e5": 0.0,
-      "e10": 0.0,
+      "e5": -0.01,
+      "e10": -0.01,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "00061796-1231-4444-8888-acdc00001231",
+    "station_name": "Mengin Tank-Stop Schöffengrund",
+    "brand": "Mengin",
+    "distance_km": 13.2,
+    "current": {
+      "diesel": 1.909,
+      "e5": 1.999,
+      "e10": 1.939,
+      "hvo": null,
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
+    },
+    "change": {
+      "diesel": -0.02,
+      "e5": -0.01,
+      "e10": -0.02,
       "hvo": null
     }
   },
@@ -655,7 +655,7 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.02,
@@ -674,7 +674,7 @@
       "e5": 1.999,
       "e10": 1.939,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.02,
@@ -693,7 +693,7 @@
       "e5": 2.509,
       "e10": 2.449,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -712,7 +712,7 @@
       "e5": 2.069,
       "e10": 2.009,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.01,
@@ -731,7 +731,7 @@
       "e5": 2.069,
       "e10": 2.009,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.01,
@@ -750,7 +750,7 @@
       "e5": 2.069,
       "e10": 2.009,
       "hvo": null,
-      "timestamp": "2026-05-20T17:41:07.910252+00:00"
+      "timestamp": "2026-05-20T20:27:22.554704+00:00"
     },
     "change": {
       "diesel": -0.01,
