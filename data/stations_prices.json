@@ -19,7 +19,7 @@
     "e5": 1.909,
     "e10": 1.859,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -60,7 +60,7 @@
     "e5": 1.909,
     "e10": 1.849,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -101,7 +101,7 @@
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -142,7 +142,7 @@
     "e5": 1.949,
     "e10": 1.889,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -183,7 +183,7 @@
     "e5": 1.949,
     "e10": 1.889,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -208,7 +208,7 @@
     "e5": 1.909,
     "e10": 1.849,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -233,7 +233,7 @@
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -258,7 +258,7 @@
     "e5": 1.899,
     "e10": 1.839,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -304,7 +304,7 @@
     "e5": 1.909,
     "e10": 1.849,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -320,7 +320,7 @@
     "lat": 50.48204,
     "lng": 8.28443,
     "distance_km": 7.8,
-    "is_open": true,
+    "is_open": false,
     "opening_times": [
       {
         "text": "Sonntag, Feiertag",
@@ -350,7 +350,7 @@
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -391,7 +391,7 @@
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -416,7 +416,7 @@
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -452,7 +452,7 @@
     "e5": 1.949,
     "e10": 1.889,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -477,7 +477,7 @@
     "e5": 2.479,
     "e10": 2.419,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -502,7 +502,7 @@
     "e5": 1.879,
     "e10": null,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -527,7 +527,7 @@
     "e5": 1.899,
     "e10": 1.879,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -568,7 +568,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -609,7 +609,7 @@
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -634,7 +634,7 @@
     "e5": 1.859,
     "e10": 1.799,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -675,7 +675,7 @@
     "e5": 1.859,
     "e10": 1.799,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -711,7 +711,7 @@
     "e5": 1.919,
     "e10": 1.859,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -754,7 +754,7 @@
     "e5": 1.929,
     "e10": 1.869,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -790,7 +790,7 @@
     "e5": 1.909,
     "e10": 1.869,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -815,7 +815,7 @@
     "e5": 1.919,
     "e10": 1.859,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": true,
     "hvo_source": "Clever Tanken / öffentliche HVO-Seite",
     "hvo_note": "HVO laut Betreiber verfügbar, Preis extern derzeit nicht sicher extrahierbar",
@@ -841,7 +841,7 @@
     "e5": 1.879,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -866,7 +866,7 @@
     "e5": 1.899,
     "e10": 1.839,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -891,7 +891,7 @@
     "e5": 1.929,
     "e10": 1.869,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -916,7 +916,7 @@
     "e5": 1.959,
     "e10": 1.899,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -941,7 +941,7 @@
     "e5": 1.929,
     "e10": 1.869,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -966,7 +966,7 @@
     "e5": 1.949,
     "e10": 1.889,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -991,7 +991,7 @@
     "e5": 1.959,
     "e10": 1.899,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1016,7 +1016,7 @@
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1041,7 +1041,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1066,7 +1066,7 @@
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1091,7 +1091,7 @@
     "e5": 1.899,
     "e10": 1.839,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1116,7 +1116,7 @@
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1141,7 +1141,7 @@
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1166,7 +1166,7 @@
     "e5": 2.479,
     "e10": 2.419,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1191,7 +1191,7 @@
     "e5": 1.959,
     "e10": 1.899,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1216,7 +1216,7 @@
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-04T21:49:03.036371+00:00",
+    "last_update": "2026-06-04T23:16:24.720198+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
