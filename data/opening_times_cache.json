@@ -81,8 +81,8 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 1.849,
-    "e10": 1.789,
+    "e5": 1.839,
+    "e10": 1.779,
     "diesel": 1.789,
     "lat": 50.51334,
     "lng": 8.273964,
@@ -189,9 +189,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 1.859,
-    "e10": 1.799,
-    "diesel": 1.809,
+    "e5": 1.849,
+    "e10": 1.789,
+    "diesel": 1.799,
     "lat": 50.490331,
     "lng": 8.258516,
     "state": null
@@ -323,9 +323,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 1.859,
-    "e10": 1.799,
-    "diesel": 1.809,
+    "e5": 1.849,
+    "e10": 1.789,
+    "diesel": 1.799,
     "lat": 50.481546,
     "lng": 8.281717,
     "state": null
@@ -342,9 +342,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 1.849,
-    "e10": 1.789,
-    "diesel": 1.799,
+    "e5": 1.839,
+    "e10": 1.779,
+    "diesel": 1.789,
     "lat": 50.481099,
     "lng": 8.279904,
     "state": null
@@ -410,9 +410,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 1.849,
+    "e5": 1.839,
     "e10": null,
-    "diesel": 1.799,
+    "diesel": 1.789,
     "lat": 50.495503,
     "lng": 8.196106,
     "state": null
@@ -464,8 +464,8 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 1.849,
-    "e10": 1.789,
+    "e5": 1.839,
+    "e10": 1.779,
     "diesel": 1.779,
     "lat": 50.6468,
     "lng": 8.33165,
@@ -501,7 +501,7 @@
     "isOpen": false,
     "e5": 1.859,
     "e10": 1.799,
-    "diesel": 1.799,
+    "diesel": 1.789,
     "lat": 50.61818,
     "lng": 8.192196,
     "state": null
@@ -570,13 +570,18 @@
     "place": "Wetzlar",
     "openingTimes": [
       {
-        "text": "täglich ausser Sonn- und Feiertagen",
+        "text": "Mo-Fr",
         "start": "06:00:00",
         "end": "22:00:00"
       },
       {
-        "text": "Sonntag, Feiertag",
+        "text": "Samstag",
         "start": "07:00:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
         "end": "22:00:00"
       }
     ],
@@ -618,8 +623,8 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 1.899,
-    "e10": 1.839,
+    "e5": 1.889,
+    "e10": 1.829,
     "diesel": 1.829,
     "lat": 50.54996,
     "lng": 8.48133,
@@ -648,8 +653,8 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 1.899,
-    "e10": 1.869,
+    "e5": 1.889,
+    "e10": 1.849,
     "diesel": 1.829,
     "lat": 50.586093,
     "lng": 8.472626,
@@ -667,8 +672,8 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 1.899,
-    "e10": 1.839,
+    "e5": 1.889,
+    "e10": 1.829,
     "diesel": 1.829,
     "lat": 50.56642,
     "lng": 8.48478,
@@ -693,5 +698,5 @@
     "lng": 8.290949,
     "state": null
   },
-  "_fetched_date": "2026-06-06"
+  "_fetched_date": "2026-06-07"
 }
