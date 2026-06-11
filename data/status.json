@@ -1,15 +1,8 @@
 {
-  "ok": true,
+  "ok": false,
   "location": "Justengarten 4A, 35638 Leun",
   "radius_km": 16.0,
-  "last_fetch": "2026-06-10T23:12:50",
-  "station_count": 40,
-  "history_points": 509,
-  "hvo_strategy": "Tankerkönig für Standardkraftstoffe, Sonderquelle für bekannte HVO-Stationen",
-  "hvo_notes": [
-    {
-      "station": "Tankstelle Wetzlar",
-      "status": "available_without_price"
-    }
-  ]
+  "error": "Request failed after 3 attempts: HTTPSConnectionPool(host='creativecommons.tankerkoenig.de', port=443): Read timed out. (read timeout=30.0)",
+  "last_attempt": "2026-06-11T02:04:02",
+  "last_success": "2026-06-10T23:12:50"
 }
