@@ -19,7 +19,7 @@
     "e5": 1.889,
     "e10": 1.839,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -55,12 +55,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 07:00 Uhr",
     "diesel": 1.799,
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -96,12 +96,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 06:30 Uhr",
     "diesel": 1.739,
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -137,12 +137,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 07:00 Uhr",
     "diesel": 1.789,
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -178,12 +178,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 06:00 Uhr",
     "diesel": 1.789,
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -208,7 +208,7 @@
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -233,7 +233,7 @@
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -258,7 +258,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -299,12 +299,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 06:30 Uhr",
     "diesel": 1.799,
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -323,11 +323,6 @@
     "is_open": false,
     "opening_times": [
       {
-        "text": "Mo-Fr",
-        "start": "05:00:00",
-        "end": "00:00:00"
-      },
-      {
         "text": "Sonntag, Feiertag",
         "start": "08:00:00",
         "end": "00:00:00"
@@ -338,6 +333,11 @@
         "end": "00:30:00"
       },
       {
+        "text": "Mo-Fr",
+        "start": "05:00:00",
+        "end": "00:00:00"
+      },
+      {
         "text": "Samstag",
         "start": "06:00:00",
         "end": "00:00:00"
@@ -345,12 +345,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 06:00 Uhr",
     "diesel": 1.769,
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -386,12 +386,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 06:00 Uhr",
     "diesel": 1.789,
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -416,7 +416,7 @@
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -447,12 +447,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 07:00 Uhr",
     "diesel": 1.799,
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -477,7 +477,7 @@
     "e5": 2.429,
     "e10": 2.369,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -502,7 +502,7 @@
     "e5": 1.879,
     "e10": null,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -527,7 +527,7 @@
     "e5": 1.899,
     "e10": 1.879,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -563,12 +563,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 07:00 Uhr",
     "diesel": 1.759,
     "e5": 1.859,
     "e10": 1.799,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -604,12 +604,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 07:00 Uhr",
     "diesel": 1.759,
     "e5": 1.859,
     "e10": 1.799,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -634,7 +634,7 @@
     "e5": 1.849,
     "e10": 1.789,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -670,12 +670,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 06:00 Uhr",
     "diesel": 1.799,
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -711,12 +711,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 07:00 Uhr",
     "diesel": 1.799,
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -735,13 +735,13 @@
     "is_open": false,
     "opening_times": [
       {
-        "text": "Mo-Fr",
-        "start": "05:30:00",
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
         "end": "22:00:00"
       },
       {
-        "text": "Sonntag, Feiertag",
-        "start": "08:00:00",
+        "text": "Mo-Fr",
+        "start": "05:30:00",
         "end": "22:00:00"
       },
       {
@@ -752,12 +752,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 07:00 Uhr",
     "diesel": 1.779,
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -788,12 +788,12 @@
     ],
     "opening_overrides": [],
     "whole_day": false,
-    "open_label": "Aktuell geschlossen",
+    "open_label": "Öffnet heute um 06:00 Uhr",
     "diesel": 1.799,
     "e5": 1.889,
     "e10": 1.849,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -818,7 +818,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": true,
     "hvo_source": "Clever Tanken / öffentliche HVO-Seite",
     "hvo_note": "HVO laut Betreiber verfügbar, Preis extern derzeit nicht sicher extrahierbar",
@@ -844,7 +844,7 @@
     "e5": 1.879,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -869,7 +869,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -894,7 +894,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -919,7 +919,7 @@
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -944,7 +944,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -969,7 +969,7 @@
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -994,7 +994,7 @@
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1019,7 +1019,7 @@
     "e5": 1.889,
     "e10": 1.829,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1044,7 +1044,7 @@
     "e5": 1.859,
     "e10": 1.799,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1069,7 +1069,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1094,7 +1094,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1119,7 +1119,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1144,7 +1144,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1169,7 +1169,7 @@
     "e5": 2.429,
     "e10": 2.369,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1194,7 +1194,7 @@
     "e5": 1.879,
     "e10": 1.819,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
@@ -1219,7 +1219,7 @@
     "e5": 1.869,
     "e10": 1.809,
     "hvo": null,
-    "last_update": "2026-06-12T22:42:30.800497+00:00",
+    "last_update": "2026-06-13T00:23:21.094712+00:00",
     "hvo_available": false,
     "hvo_source": null,
     "hvo_note": null
