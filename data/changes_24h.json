@@ -5,16 +5,16 @@
     "brand": "AVIA XPress",
     "distance_km": 3.5,
     "current": {
-      "diesel": 1.709,
-      "e5": 1.829,
-      "e10": 1.779,
+      "diesel": 1.699,
+      "e5": 1.819,
+      "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
-      "diesel": 0.04,
-      "e5": -0.01,
-      "e10": -0.01,
+      "diesel": 0.03,
+      "e5": -0.02,
+      "e10": -0.02,
       "hvo": null
     }
   },
@@ -24,92 +24,35 @@
     "brand": "ARAL",
     "distance_km": 3.6,
     "current": {
-      "diesel": 1.709,
-      "e5": 1.829,
-      "e10": 1.769,
-      "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
-    },
-    "change": {
-      "diesel": 0.04,
-      "e5": -0.01,
-      "e10": -0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "c2b95d43-704e-456f-914d-e563646cc2da",
-    "station_name": "AVIA Tankstelle",
-    "brand": "AVIA",
-    "distance_km": 12.1,
-    "current": {
-      "diesel": 1.709,
-      "e5": 1.829,
-      "e10": 1.769,
-      "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
-    },
-    "change": {
-      "diesel": 0.04,
-      "e5": -0.01,
-      "e10": -0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "25c8c38d-c34f-4f8b-953d-0f200c28c27c",
-    "station_name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "distance_km": 13.4,
-    "current": {
-      "diesel": 1.709,
-      "e5": 1.829,
-      "e10": 1.769,
-      "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
-    },
-    "change": {
-      "diesel": 0.04,
-      "e5": -0.01,
-      "e10": -0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "f0388b43-f365-4bde-8550-de43a21ea056",
-    "station_name": "AVIA Tankstelle",
-    "brand": "AVIA",
-    "distance_km": 13.7,
-    "current": {
       "diesel": 1.699,
       "e5": 1.819,
       "e10": 1.759,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
-      "diesel": 0.04,
-      "e5": -0.01,
-      "e10": -0.01,
+      "diesel": 0.03,
+      "e5": -0.02,
+      "e10": -0.02,
       "hvo": null
     }
   },
   {
-    "station_id": "52a8039f-60c5-49be-9ddd-91f54298c22c",
-    "station_name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "distance_km": 13.8,
+    "station_id": "d92bf8aa-66ac-4bf9-a49f-ccf1376e160d",
+    "station_name": "Auto Bergner UG & Co. KG",
+    "brand": "ED",
+    "distance_km": 4.8,
     "current": {
-      "diesel": 1.709,
-      "e5": 1.829,
-      "e10": 1.769,
+      "diesel": 1.669,
+      "e5": 1.799,
+      "e10": 1.739,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
-      "diesel": 0.04,
-      "e5": -0.01,
-      "e10": -0.01,
+      "diesel": -0.01,
+      "e5": -0.03,
+      "e10": -0.03,
       "hvo": null
     }
   },
@@ -120,15 +63,15 @@
     "distance_km": 6.9,
     "current": {
       "diesel": 1.699,
-      "e5": 1.829,
-      "e10": 1.769,
+      "e5": 1.819,
+      "e10": 1.759,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.03,
-      "e5": 0.01,
-      "e10": 0.01,
+      "e5": 0.0,
+      "e10": 0.0,
       "hvo": null
     }
   },
@@ -139,15 +82,15 @@
     "distance_km": 7.4,
     "current": {
       "diesel": 1.699,
-      "e5": 1.829,
-      "e10": 1.769,
+      "e5": 1.819,
+      "e10": 1.759,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.03,
-      "e5": 0.01,
-      "e10": 0.01,
+      "e5": 0.0,
+      "e10": 0.0,
       "hvo": null
     }
   },
@@ -158,10 +101,29 @@
     "distance_km": 7.4,
     "current": {
       "diesel": 1.699,
+      "e5": 1.819,
+      "e10": 1.759,
+      "hvo": null,
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
+    },
+    "change": {
+      "diesel": 0.03,
+      "e5": -0.02,
+      "e10": -0.02,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "c2b95d43-704e-456f-914d-e563646cc2da",
+    "station_name": "AVIA Tankstelle",
+    "brand": "AVIA",
+    "distance_km": 12.1,
+    "current": {
+      "diesel": 1.699,
       "e5": 1.829,
       "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.03,
@@ -180,7 +142,7 @@
       "e5": 1.809,
       "e10": 1.749,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.03,
@@ -199,7 +161,7 @@
       "e5": 1.809,
       "e10": 1.749,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.03,
@@ -218,12 +180,31 @@
       "e5": 1.809,
       "e10": 1.749,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.03,
       "e5": 0.0,
       "e10": 0.0,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "25c8c38d-c34f-4f8b-953d-0f200c28c27c",
+    "station_name": "Aral Tankstelle",
+    "brand": "ARAL",
+    "distance_km": 13.4,
+    "current": {
+      "diesel": 1.699,
+      "e5": 1.829,
+      "e10": 1.769,
+      "hvo": null,
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
+    },
+    "change": {
+      "diesel": 0.03,
+      "e5": -0.01,
+      "e10": -0.01,
       "hvo": null
     }
   },
@@ -237,12 +218,50 @@
       "e5": 1.809,
       "e10": 1.749,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.03,
       "e5": 0.0,
       "e10": 0.0,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "f0388b43-f365-4bde-8550-de43a21ea056",
+    "station_name": "AVIA Tankstelle",
+    "brand": "AVIA",
+    "distance_km": 13.7,
+    "current": {
+      "diesel": 1.689,
+      "e5": 1.819,
+      "e10": 1.759,
+      "hvo": null,
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
+    },
+    "change": {
+      "diesel": 0.03,
+      "e5": -0.01,
+      "e10": -0.01,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "52a8039f-60c5-49be-9ddd-91f54298c22c",
+    "station_name": "Aral Tankstelle",
+    "brand": "ARAL",
+    "distance_km": 13.8,
+    "current": {
+      "diesel": 1.699,
+      "e5": 1.829,
+      "e10": 1.769,
+      "hvo": null,
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
+    },
+    "change": {
+      "diesel": 0.03,
+      "e5": -0.01,
+      "e10": -0.01,
       "hvo": null
     }
   },
@@ -256,31 +275,12 @@
       "e5": 1.809,
       "e10": 1.749,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.02,
       "e5": 0.0,
       "e10": 0.0,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "ef051c15-c632-4657-b6a2-29ec7d504873",
-    "station_name": "EHRINGSHAUSEN - KOELSCHHAEUSER STR.",
-    "brand": "AGIP ENI",
-    "distance_km": 8.2,
-    "current": {
-      "diesel": 1.709,
-      "e5": 1.829,
-      "e10": 1.769,
-      "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
-    },
-    "change": {
-      "diesel": 0.02,
-      "e5": -0.01,
-      "e10": -0.01,
       "hvo": null
     }
   },
@@ -294,10 +294,29 @@
       "e5": 2.359,
       "e10": 2.299,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": -0.01,
+      "e5": -0.02,
+      "e10": -0.02,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "3f8b6120-ea6c-4694-8255-b1172febf57a",
+    "station_name": "Aral Tankstelle",
+    "brand": "ARAL",
+    "distance_km": 11.1,
+    "current": {
+      "diesel": 1.679,
+      "e5": 1.799,
+      "e10": 1.739,
+      "hvo": null,
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
+    },
+    "change": {
+      "diesel": 0.0,
       "e5": -0.02,
       "e10": -0.02,
       "hvo": null
@@ -313,7 +332,7 @@
       "e5": 1.829,
       "e10": 1.819,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -332,7 +351,7 @@
       "e5": 1.809,
       "e10": 1.749,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -351,7 +370,7 @@
       "e5": 1.829,
       "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -370,7 +389,7 @@
       "e5": 1.829,
       "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -389,31 +408,12 @@
       "e5": 2.359,
       "e10": 2.299,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": -0.01,
       "e5": -0.02,
       "e10": -0.02,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "d92bf8aa-66ac-4bf9-a49f-ccf1376e160d",
-    "station_name": "Auto Bergner UG & Co. KG",
-    "brand": "ED",
-    "distance_km": 4.8,
-    "current": {
-      "diesel": 1.679,
-      "e5": 1.819,
-      "e10": 1.759,
-      "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
-    },
-    "change": {
-      "diesel": 0.0,
-      "e5": -0.01,
-      "e10": -0.01,
       "hvo": null
     }
   },
@@ -427,7 +427,7 @@
       "e5": 1.829,
       "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -446,7 +446,7 @@
       "e5": 1.839,
       "e10": 1.779,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.01,
@@ -465,7 +465,7 @@
       "e5": 1.819,
       "e10": 1.759,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -484,7 +484,7 @@
       "e5": 1.829,
       "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -503,10 +503,29 @@
       "e5": 1.819,
       "e10": 1.759,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
+      "e5": -0.01,
+      "e10": -0.01,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "ef051c15-c632-4657-b6a2-29ec7d504873",
+    "station_name": "EHRINGSHAUSEN - KOELSCHHAEUSER STR.",
+    "brand": "AGIP ENI",
+    "distance_km": 8.2,
+    "current": {
+      "diesel": 1.699,
+      "e5": 1.829,
+      "e10": 1.769,
+      "hvo": null,
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
+    },
+    "change": {
+      "diesel": 0.01,
       "e5": -0.01,
       "e10": -0.01,
       "hvo": null
@@ -522,7 +541,7 @@
       "e5": 1.819,
       "e10": null,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -541,29 +560,10 @@
       "e5": 1.819,
       "e10": 1.759,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
-      "e5": 0.01,
-      "e10": 0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "3f8b6120-ea6c-4694-8255-b1172febf57a",
-    "station_name": "Aral Tankstelle",
-    "brand": "ARAL",
-    "distance_km": 11.1,
-    "current": {
-      "diesel": 1.689,
-      "e5": 1.829,
-      "e10": 1.769,
-      "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
-    },
-    "change": {
-      "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
       "hvo": null
@@ -579,7 +579,7 @@
       "e5": 1.809,
       "e10": 1.749,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -598,7 +598,7 @@
       "e5": 1.799,
       "e10": 1.739,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -617,7 +617,7 @@
       "e5": 1.819,
       "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -636,7 +636,7 @@
       "e5": 1.829,
       "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -655,7 +655,7 @@
       "e5": 1.819,
       "e10": 1.759,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -674,7 +674,7 @@
       "e5": 1.829,
       "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -693,7 +693,7 @@
       "e5": 1.829,
       "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.01,
@@ -712,7 +712,7 @@
       "e5": 1.819,
       "e10": 1.759,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -731,7 +731,7 @@
       "e5": 1.849,
       "e10": 1.809,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -750,7 +750,7 @@
       "e5": 1.829,
       "e10": 1.769,
       "hvo": null,
-      "timestamp": "2026-06-25T01:33:16.954966+00:00"
+      "timestamp": "2026-06-25T05:46:27.241692+00:00"
     },
     "change": {
       "diesel": 0.0,
