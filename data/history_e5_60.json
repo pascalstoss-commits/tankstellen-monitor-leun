@@ -481,10 +481,10 @@
   },
   {
     "day": "2026-06-29",
-    "avg_price": 1.89,
-    "min_price": 1.89,
+    "avg_price": 1.866,
+    "min_price": 1.856,
     "max_price": 1.89,
-    "readings": 19,
-    "snapshots": 1
+    "readings": 59,
+    "snapshots": 2
   }
 ]
