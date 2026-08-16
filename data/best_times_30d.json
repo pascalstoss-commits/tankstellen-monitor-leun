@@ -198,8 +198,8 @@
       },
       {
         "slot": "19:00",
-        "avg_price": 2.225,
-        "samples": 8
+        "avg_price": 2.234,
+        "samples": 9
       },
       {
         "slot": "19:30",
@@ -447,8 +447,8 @@
       },
       {
         "slot": "19:00",
-        "avg_price": 2.218,
-        "samples": 8
+        "avg_price": 2.222,
+        "samples": 9
       },
       {
         "slot": "19:30",
@@ -696,8 +696,8 @@
       },
       {
         "slot": "19:00",
-        "avg_price": 2.161,
-        "samples": 8
+        "avg_price": 2.164,
+        "samples": 9
       },
       {
         "slot": "19:30",
