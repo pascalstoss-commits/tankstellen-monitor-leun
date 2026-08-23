@@ -9,12 +9,12 @@
       "e5": 2.409,
       "e10": 2.349,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.22,
-      "e5": 0.22,
-      "e10": 0.22,
+      "e5": 0.23,
+      "e10": 0.23,
       "hvo": null
     }
   },
@@ -28,7 +28,7 @@
       "e5": 2.409,
       "e10": 2.349,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.22,
@@ -47,7 +47,7 @@
       "e5": 2.319,
       "e10": 2.259,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.03,
@@ -66,31 +66,12 @@
       "e5": 2.299,
       "e10": 2.249,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.04,
+      "diesel": 0.05,
       "e5": 0.08,
       "e10": 0.08,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "09f2d06a-1768-4c15-ac43-dbdb5518019a",
-    "station_name": "AVIA XPress",
-    "brand": "AVIA XPress",
-    "distance_km": 12.7,
-    "current": {
-      "diesel": 2.279,
-      "e5": 2.289,
-      "e10": 2.239,
-      "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
-    },
-    "change": {
-      "diesel": 0.03,
-      "e5": 0.07,
-      "e10": 0.07,
       "hvo": null
     }
   },
@@ -104,29 +85,10 @@
       "e5": 2.279,
       "e10": 2.219,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.03,
-      "e5": 0.06,
-      "e10": 0.06,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "1edacedd-2aea-459c-bdfb-97186e07f365",
-    "station_name": "Shell Weilburg Limburger Str. 38",
-    "brand": "Shell",
-    "distance_km": 7.6,
-    "current": {
-      "diesel": 2.289,
-      "e5": 2.289,
-      "e10": 2.229,
-      "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
-    },
-    "change": {
-      "diesel": 0.03,
+      "diesel": 0.04,
       "e5": 0.06,
       "e10": 0.06,
       "hvo": null
@@ -142,10 +104,10 @@
       "e5": 2.279,
       "e10": 2.219,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.03,
+      "diesel": 0.04,
       "e5": 0.06,
       "e10": 0.06,
       "hvo": null
@@ -161,31 +123,12 @@
       "e5": 2.289,
       "e10": 2.229,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.03,
+      "diesel": 0.04,
       "e5": 0.06,
       "e10": 0.01,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "2c47e122-1308-4489-a219-a8dff0fcd59a",
-    "station_name": "Tankstelle",
-    "brand": "Freie Tankstelle",
-    "distance_km": 8.0,
-    "current": {
-      "diesel": 2.279,
-      "e5": 2.279,
-      "e10": 2.219,
-      "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
-    },
-    "change": {
-      "diesel": 0.03,
-      "e5": 0.06,
-      "e10": 0.06,
       "hvo": null
     }
   },
@@ -199,45 +142,26 @@
       "e5": 2.279,
       "e10": null,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.03,
+      "diesel": 0.04,
       "e5": 0.06,
       "e10": null,
       "hvo": null
     }
   },
   {
-    "station_id": "b8319d59-7e81-48ab-a69b-de15767f4504",
-    "station_name": "Esso Tankstelle",
-    "brand": "ESSO",
-    "distance_km": 10.5,
-    "current": {
-      "diesel": 2.289,
-      "e5": 2.289,
-      "e10": 2.229,
-      "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
-    },
-    "change": {
-      "diesel": 0.04,
-      "e5": 0.06,
-      "e10": 0.06,
-      "hvo": null
-    }
-  },
-  {
-    "station_id": "b5b6e385-c0ee-4279-86b8-8132ad7754e6",
-    "station_name": "TotalEnergies Mengerskirchen",
-    "brand": "TotalEnergies",
-    "distance_km": 11.8,
+    "station_id": "09f2d06a-1768-4c15-ac43-dbdb5518019a",
+    "station_name": "AVIA XPress",
+    "brand": "AVIA XPress",
+    "distance_km": 12.7,
     "current": {
       "diesel": 2.279,
       "e5": 2.279,
-      "e10": 2.219,
+      "e10": 2.229,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.04,
@@ -256,10 +180,10 @@
       "e5": 2.289,
       "e10": 2.229,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.03,
+      "diesel": 0.04,
       "e5": 0.06,
       "e10": 0.06,
       "hvo": null
@@ -275,7 +199,7 @@
       "e5": 2.289,
       "e10": 2.229,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.03,
@@ -294,12 +218,88 @@
       "e5": 2.289,
       "e10": 2.229,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.03,
+      "diesel": 0.04,
       "e5": 0.06,
       "e10": 0.06,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "1edacedd-2aea-459c-bdfb-97186e07f365",
+    "station_name": "Shell Weilburg Limburger Str. 38",
+    "brand": "Shell",
+    "distance_km": 7.6,
+    "current": {
+      "diesel": 2.289,
+      "e5": 2.279,
+      "e10": 2.219,
+      "hvo": null,
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
+    },
+    "change": {
+      "diesel": 0.04,
+      "e5": 0.05,
+      "e10": 0.05,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "2c47e122-1308-4489-a219-a8dff0fcd59a",
+    "station_name": "Tankstelle",
+    "brand": "Freie Tankstelle",
+    "distance_km": 8.0,
+    "current": {
+      "diesel": 2.279,
+      "e5": 2.269,
+      "e10": 2.209,
+      "hvo": null,
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
+    },
+    "change": {
+      "diesel": 0.04,
+      "e5": 0.05,
+      "e10": 0.05,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "b8319d59-7e81-48ab-a69b-de15767f4504",
+    "station_name": "Esso Tankstelle",
+    "brand": "ESSO",
+    "distance_km": 10.5,
+    "current": {
+      "diesel": 2.289,
+      "e5": 2.279,
+      "e10": 2.219,
+      "hvo": null,
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
+    },
+    "change": {
+      "diesel": 0.04,
+      "e5": 0.05,
+      "e10": 0.05,
+      "hvo": null
+    }
+  },
+  {
+    "station_id": "b5b6e385-c0ee-4279-86b8-8132ad7754e6",
+    "station_name": "TotalEnergies Mengerskirchen",
+    "brand": "TotalEnergies",
+    "distance_km": 11.8,
+    "current": {
+      "diesel": 2.279,
+      "e5": 2.269,
+      "e10": 2.209,
+      "hvo": null,
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
+    },
+    "change": {
+      "diesel": 0.04,
+      "e5": 0.05,
+      "e10": 0.05,
       "hvo": null
     }
   },
@@ -313,10 +313,10 @@
       "e5": 2.249,
       "e10": 2.189,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.03,
       "e10": 0.03,
       "hvo": null
@@ -332,7 +332,7 @@
       "e5": 2.239,
       "e10": 2.179,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -351,7 +351,7 @@
       "e5": 2.259,
       "e10": 2.199,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -370,7 +370,7 @@
       "e5": 2.179,
       "e10": 2.119,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -389,7 +389,7 @@
       "e5": 2.169,
       "e10": 2.109,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -408,10 +408,10 @@
       "e5": 2.259,
       "e10": 2.199,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.02,
       "e10": 0.02,
       "hvo": null
@@ -427,10 +427,10 @@
       "e5": 2.259,
       "e10": 2.199,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.02,
       "e10": 0.02,
       "hvo": null
@@ -446,10 +446,10 @@
       "e5": 2.259,
       "e10": 2.199,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.02,
       "e10": 0.02,
       "hvo": null
@@ -465,7 +465,7 @@
       "e5": 2.219,
       "e10": 2.159,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -484,7 +484,7 @@
       "e5": 2.239,
       "e10": 2.179,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -503,7 +503,7 @@
       "e5": 2.729,
       "e10": 2.669,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -522,7 +522,7 @@
       "e5": 2.239,
       "e10": 2.179,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.02,
@@ -541,10 +541,10 @@
       "e5": 2.219,
       "e10": 2.159,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
       "hvo": null
@@ -560,7 +560,7 @@
       "e5": 2.729,
       "e10": 2.669,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.01,
@@ -579,10 +579,10 @@
       "e5": 2.219,
       "e10": 2.159,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
       "hvo": null
@@ -594,11 +594,11 @@
     "brand": "ESSO",
     "distance_km": 12.3,
     "current": {
-      "diesel": 2.209,
+      "diesel": 2.199,
       "e5": 2.229,
       "e10": 2.169,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.01,
@@ -617,10 +617,10 @@
       "e5": 2.219,
       "e10": 2.159,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
       "hvo": null
@@ -636,10 +636,10 @@
       "e5": 2.219,
       "e10": 2.159,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
       "hvo": null
@@ -655,10 +655,10 @@
       "e5": 2.219,
       "e10": 2.159,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
-      "diesel": 0.0,
+      "diesel": 0.01,
       "e5": 0.01,
       "e10": 0.01,
       "hvo": null
@@ -670,11 +670,11 @@
     "brand": "Access",
     "distance_km": 13.7,
     "current": {
-      "diesel": 2.199,
+      "diesel": 2.189,
       "e5": 2.219,
       "e10": 2.159,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -693,7 +693,7 @@
       "e5": 2.259,
       "e10": 2.199,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -712,7 +712,7 @@
       "e5": 2.259,
       "e10": 2.199,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.0,
@@ -731,7 +731,7 @@
       "e5": 2.259,
       "e10": 2.199,
       "hvo": null,
-      "timestamp": "2026-08-23T17:27:03.519316+00:00"
+      "timestamp": "2026-08-23T17:48:47.570027+00:00"
     },
     "change": {
       "diesel": 0.0,
