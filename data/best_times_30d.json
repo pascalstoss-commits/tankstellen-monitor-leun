@@ -44,7 +44,7 @@
       {
         "slot": "03:30",
         "avg_price": 2.257,
-        "samples": 10
+        "samples": 9
       },
       {
         "slot": "04:00",
@@ -63,8 +63,8 @@
       },
       {
         "slot": "05:30",
-        "avg_price": 2.25,
-        "samples": 21
+        "avg_price": 2.248,
+        "samples": 22
       },
       {
         "slot": "06:00",
@@ -293,7 +293,7 @@
       {
         "slot": "03:30",
         "avg_price": 2.231,
-        "samples": 10
+        "samples": 9
       },
       {
         "slot": "04:00",
@@ -312,8 +312,8 @@
       },
       {
         "slot": "05:30",
-        "avg_price": 2.231,
-        "samples": 21
+        "avg_price": 2.232,
+        "samples": 22
       },
       {
         "slot": "06:00",
@@ -541,8 +541,8 @@
       },
       {
         "slot": "03:30",
-        "avg_price": 2.175,
-        "samples": 10
+        "avg_price": 2.176,
+        "samples": 9
       },
       {
         "slot": "04:00",
@@ -561,8 +561,8 @@
       },
       {
         "slot": "05:30",
-        "avg_price": 2.174,
-        "samples": 21
+        "avg_price": 2.175,
+        "samples": 22
       },
       {
         "slot": "06:00",
