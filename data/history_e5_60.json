@@ -1,11 +1,11 @@
 [
   {
     "day": "2026-07-19",
-    "avg_price": 2.223,
-    "min_price": 2.214,
+    "avg_price": 2.236,
+    "min_price": 2.235,
     "max_price": 2.238,
-    "readings": 172,
-    "snapshots": 6
+    "readings": 59,
+    "snapshots": 3
   },
   {
     "day": "2026-07-20",
@@ -481,10 +481,10 @@
   },
   {
     "day": "2026-09-17",
-    "avg_price": 2.425,
-    "min_price": 2.396,
+    "avg_price": 2.42,
+    "min_price": 2.389,
     "max_price": 2.473,
-    "readings": 139,
-    "snapshots": 4
+    "readings": 162,
+    "snapshots": 5
   }
 ]
