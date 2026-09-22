@@ -2,8 +2,8 @@
   "diesel": {
     "window_days": 30,
     "best_slot": "08:30",
-    "best_price": 2.213,
-    "samples": 4,
+    "best_price": 2.204,
+    "samples": 3,
     "enough_data": true,
     "slots": [
       {
@@ -48,13 +48,13 @@
       },
       {
         "slot": "05:00",
-        "avg_price": 2.302,
-        "samples": 4
+        "avg_price": 2.314,
+        "samples": 3
       },
       {
         "slot": "05:30",
-        "avg_price": 2.251,
-        "samples": 8
+        "avg_price": 2.248,
+        "samples": 6
       },
       {
         "slot": "06:00",
@@ -63,8 +63,8 @@
       },
       {
         "slot": "06:30",
-        "avg_price": 2.385,
-        "samples": 8
+        "avg_price": 2.404,
+        "samples": 7
       },
       {
         "slot": "07:00",
@@ -73,8 +73,8 @@
       },
       {
         "slot": "07:30",
-        "avg_price": 2.221,
-        "samples": 4
+        "avg_price": 2.213,
+        "samples": 3
       },
       {
         "slot": "08:00",
@@ -83,8 +83,8 @@
       },
       {
         "slot": "08:30",
-        "avg_price": 2.213,
-        "samples": 4
+        "avg_price": 2.204,
+        "samples": 3
       },
       {
         "slot": "09:00",
@@ -93,7 +93,7 @@
       },
       {
         "slot": "09:30",
-        "avg_price": 2.268,
+        "avg_price": 2.308,
         "samples": 5
       },
       {
@@ -241,8 +241,8 @@
   "e5": {
     "window_days": 30,
     "best_slot": "08:30",
-    "best_price": 2.233,
-    "samples": 4,
+    "best_price": 2.228,
+    "samples": 3,
     "enough_data": true,
     "slots": [
       {
@@ -287,13 +287,13 @@
       },
       {
         "slot": "05:00",
-        "avg_price": 2.282,
-        "samples": 4
+        "avg_price": 2.288,
+        "samples": 3
       },
       {
         "slot": "05:30",
-        "avg_price": 2.265,
-        "samples": 8
+        "avg_price": 2.267,
+        "samples": 6
       },
       {
         "slot": "06:00",
@@ -302,8 +302,8 @@
       },
       {
         "slot": "06:30",
-        "avg_price": 2.354,
-        "samples": 8
+        "avg_price": 2.369,
+        "samples": 7
       },
       {
         "slot": "07:00",
@@ -312,8 +312,8 @@
       },
       {
         "slot": "07:30",
-        "avg_price": 2.236,
-        "samples": 4
+        "avg_price": 2.231,
+        "samples": 3
       },
       {
         "slot": "08:00",
@@ -322,8 +322,8 @@
       },
       {
         "slot": "08:30",
-        "avg_price": 2.233,
-        "samples": 4
+        "avg_price": 2.228,
+        "samples": 3
       },
       {
         "slot": "09:00",
@@ -332,7 +332,7 @@
       },
       {
         "slot": "09:30",
-        "avg_price": 2.254,
+        "avg_price": 2.27,
         "samples": 5
       },
       {
@@ -480,8 +480,8 @@
   "e10": {
     "window_days": 30,
     "best_slot": "08:30",
-    "best_price": 2.177,
-    "samples": 4,
+    "best_price": 2.172,
+    "samples": 3,
     "enough_data": true,
     "slots": [
       {
@@ -526,13 +526,13 @@
       },
       {
         "slot": "05:00",
-        "avg_price": 2.227,
-        "samples": 4
+        "avg_price": 2.232,
+        "samples": 3
       },
       {
         "slot": "05:30",
-        "avg_price": 2.209,
-        "samples": 8
+        "avg_price": 2.211,
+        "samples": 6
       },
       {
         "slot": "06:00",
@@ -541,8 +541,8 @@
       },
       {
         "slot": "06:30",
-        "avg_price": 2.296,
-        "samples": 8
+        "avg_price": 2.311,
+        "samples": 7
       },
       {
         "slot": "07:00",
@@ -551,8 +551,8 @@
       },
       {
         "slot": "07:30",
-        "avg_price": 2.18,
-        "samples": 4
+        "avg_price": 2.176,
+        "samples": 3
       },
       {
         "slot": "08:00",
@@ -561,8 +561,8 @@
       },
       {
         "slot": "08:30",
-        "avg_price": 2.177,
-        "samples": 4
+        "avg_price": 2.172,
+        "samples": 3
       },
       {
         "slot": "09:00",
@@ -571,7 +571,7 @@
       },
       {
         "slot": "09:30",
-        "avg_price": 2.199,
+        "avg_price": 2.215,
         "samples": 5
       },
       {
