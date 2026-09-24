@@ -13,8 +13,8 @@
       },
       {
         "slot": "00:30",
-        "avg_price": 2.308,
-        "samples": 5
+        "avg_price": 2.333,
+        "samples": 6
       },
       {
         "slot": "01:00",
@@ -218,18 +218,18 @@
       },
       {
         "slot": "22:30",
-        "avg_price": 2.328,
-        "samples": 8
+        "avg_price": 2.343,
+        "samples": 6
       },
       {
         "slot": "23:00",
-        "avg_price": 2.349,
-        "samples": 10
+        "avg_price": 2.356,
+        "samples": 9
       },
       {
         "slot": "23:30",
-        "avg_price": 2.314,
-        "samples": 7
+        "avg_price": 2.319,
+        "samples": 6
       }
     ]
   },
@@ -247,8 +247,8 @@
       },
       {
         "slot": "00:30",
-        "avg_price": 2.322,
-        "samples": 5
+        "avg_price": 2.328,
+        "samples": 6
       },
       {
         "slot": "01:00",
@@ -452,18 +452,18 @@
       },
       {
         "slot": "22:30",
-        "avg_price": 2.32,
-        "samples": 8
+        "avg_price": 2.341,
+        "samples": 6
       },
       {
         "slot": "23:00",
-        "avg_price": 2.341,
-        "samples": 10
+        "avg_price": 2.351,
+        "samples": 9
       },
       {
         "slot": "23:30",
-        "avg_price": 2.302,
-        "samples": 7
+        "avg_price": 2.31,
+        "samples": 6
       }
     ]
   },
@@ -481,8 +481,8 @@
       },
       {
         "slot": "00:30",
-        "avg_price": 2.267,
-        "samples": 5
+        "avg_price": 2.275,
+        "samples": 6
       },
       {
         "slot": "01:00",
@@ -686,18 +686,18 @@
       },
       {
         "slot": "22:30",
-        "avg_price": 2.266,
-        "samples": 8
+        "avg_price": 2.286,
+        "samples": 6
       },
       {
         "slot": "23:00",
-        "avg_price": 2.287,
-        "samples": 10
+        "avg_price": 2.296,
+        "samples": 9
       },
       {
         "slot": "23:30",
-        "avg_price": 2.25,
-        "samples": 7
+        "avg_price": 2.257,
+        "samples": 6
       }
     ]
   },
