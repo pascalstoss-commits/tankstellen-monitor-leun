@@ -265,6 +265,11 @@
     "place": "WEILBURG",
     "openingTimes": [
       {
+        "text": "Mo-Fr",
+        "start": "05:00:00",
+        "end": "00:00:00"
+      },
+      {
         "text": "Sonntag, Feiertag",
         "start": "08:00:00",
         "end": "00:00:00"
@@ -273,11 +278,6 @@
         "text": "Sonntag, Feiertag",
         "start": "00:00:00",
         "end": "00:30:00"
-      },
-      {
-        "text": "Mo-Fr",
-        "start": "05:00:00",
-        "end": "00:00:00"
       },
       {
         "text": "Samstag",
@@ -605,13 +605,13 @@
     "place": "WETZLAR",
     "openingTimes": [
       {
-        "text": "Sonntag, Feiertag",
-        "start": "08:00:00",
+        "text": "Mo-Fr",
+        "start": "05:30:00",
         "end": "22:00:00"
       },
       {
-        "text": "Mo-Fr",
-        "start": "05:30:00",
+        "text": "Sonntag, Feiertag",
+        "start": "08:00:00",
         "end": "22:00:00"
       },
       {
@@ -623,9 +623,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 2.199,
-    "e10": 2.139,
-    "diesel": 2.229,
+    "e5": 2.209,
+    "e10": 2.149,
+    "diesel": 2.239,
     "lat": 50.54996,
     "lng": 8.48133,
     "state": "deHE"
@@ -653,9 +653,9 @@
     "overrides": [],
     "wholeDay": false,
     "isOpen": false,
-    "e5": 2.209,
-    "e10": 2.149,
-    "diesel": 2.239,
+    "e5": 2.219,
+    "e10": 2.159,
+    "diesel": 2.269,
     "lat": 50.586093,
     "lng": 8.472626,
     "state": null
@@ -672,9 +672,9 @@
     "overrides": [],
     "wholeDay": true,
     "isOpen": true,
-    "e5": 2.199,
-    "e10": 2.139,
-    "diesel": 2.229,
+    "e5": 2.209,
+    "e10": 2.149,
+    "diesel": 2.239,
     "lat": 50.56642,
     "lng": 8.48478,
     "state": null
@@ -698,5 +698,5 @@
     "lng": 8.290949,
     "state": null
   },
-  "_fetched_date": "2026-10-04"
+  "_fetched_date": "2026-10-05"
 }
