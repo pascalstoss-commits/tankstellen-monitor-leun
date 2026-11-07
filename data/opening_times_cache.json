@@ -649,5 +649,54 @@
     "lng": 8.290949,
     "state": null
   },
-  "_fetched_date": "2026-11-07"
+  "_fetched_date": "2026-11-07",
+  "2c47e122-1308-4489-a219-a8dff0fcd59a": {
+    "id": "2c47e122-1308-4489-a219-a8dff0fcd59a",
+    "name": "Tankstelle",
+    "brand": "Tankstelle",
+    "street": "Frankfurter Straße",
+    "houseNumber": "57",
+    "postCode": 35781,
+    "place": "Weilburg",
+    "openingTimes": [],
+    "overrides": [],
+    "wholeDay": true,
+    "isOpen": true,
+    "e5": 1.939,
+    "e10": 1.879,
+    "diesel": 2.179,
+    "lat": 50.481099,
+    "lng": 8.279904,
+    "state": null
+  },
+  "ef051c15-c632-4657-b6a2-29ec7d504873": {
+    "id": "ef051c15-c632-4657-b6a2-29ec7d504873",
+    "name": "EHRINGSHAUSEN - KOELSCHHAEUSER STR.",
+    "brand": "AGIP ENI",
+    "street": "Koelschhaeuser Strasse",
+    "houseNumber": "25",
+    "postCode": 35630,
+    "place": "Ehringshausen",
+    "openingTimes": [
+      {
+        "text": "Mo-Fr",
+        "start": "05:30:00",
+        "end": "22:00:00"
+      },
+      {
+        "text": "Samstag, Sonntag, Feiertag",
+        "start": "07:00:00",
+        "end": "22:00:00"
+      }
+    ],
+    "overrides": [],
+    "wholeDay": false,
+    "isOpen": true,
+    "e5": 1.959,
+    "e10": 1.899,
+    "diesel": 2.219,
+    "lat": 50.607457126601,
+    "lng": 8.383106274743,
+    "state": "deHE"
+  }
 }
