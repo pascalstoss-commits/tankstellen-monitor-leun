@@ -1,13 +1,5 @@
 [
   {
-    "day": "2026-11-14",
-    "avg_price": 1.959,
-    "min_price": 1.959,
-    "max_price": 1.959,
-    "readings": 20,
-    "snapshots": 1
-  },
-  {
     "day": "2026-11-15",
     "avg_price": 1.939,
     "min_price": 1.916,
@@ -62,5 +54,13 @@
     "max_price": 2.021,
     "readings": 95,
     "snapshots": 3
+  },
+  {
+    "day": "2026-11-22",
+    "avg_price": 1.882,
+    "min_price": 1.882,
+    "max_price": 1.882,
+    "readings": 18,
+    "snapshots": 1
   }
 ]
